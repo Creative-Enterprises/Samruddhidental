@@ -1,132 +1,1231 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en">
 
-        <title>Laravel</title>
+<head><meta charset="windows-1252">
+  
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+  <title>Samruddhi Dental Skin Hair And Advanced Laser Center Aurangabad,Maharashtra</title>
+  <meta content="Samruddhi Dental Specialist Skin Hair And Advanced Laser Center in Aurangabad-maharashtra is one of the leading Hospital in the Dentists. Also known for Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors and much more. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Samruddhi Dental Skin Hair And Advanced Laser Center, Aurangabad-maharashtra." name="description">
+  <meta content="Dr Samruddhi Shinde,Dr Ajay Shinde,Aurangabad,Dental,Skin,Hair Specialist" name="keywords">
+  <meta content="Dr Samruddhi Shinde,Dr Ajay Shinde,Aurangabad,Dental,Skin,Hair Specialist" name="author">
 
-        <!-- Styles -->
-        <style>
-            /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}[hidden]{display:none}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}*,:after,:before{box-sizing:border-box;border:0 solid #e2e8f0}a{color:inherit;text-decoration:inherit}svg,video{display:block;vertical-align:middle}video{max-width:100%;height:auto}.bg-white{--bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity))}.bg-gray-100{--bg-opacity:1;background-color:#f7fafc;background-color:rgba(247,250,252,var(--bg-opacity))}.border-gray-200{--border-opacity:1;border-color:#edf2f7;border-color:rgba(237,242,247,var(--border-opacity))}.border-t{border-top-width:1px}.flex{display:flex}.grid{display:grid}.hidden{display:none}.items-center{align-items:center}.justify-center{justify-content:center}.font-semibold{font-weight:600}.h-5{height:1.25rem}.h-8{height:2rem}.h-16{height:4rem}.text-sm{font-size:.875rem}.text-lg{font-size:1.125rem}.leading-7{line-height:1.75rem}.mx-auto{margin-left:auto;margin-right:auto}.ml-1{margin-left:.25rem}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-4{margin-top:1rem}.ml-4{margin-left:1rem}.mt-8{margin-top:2rem}.ml-12{margin-left:3rem}.-mt-px{margin-top:-1px}.max-w-6xl{max-width:72rem}.min-h-screen{min-height:100vh}.overflow-hidden{overflow:hidden}.p-6{padding:1.5rem}.py-4{padding-top:1rem;padding-bottom:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.pt-8{padding-top:2rem}.fixed{position:fixed}.relative{position:relative}.top-0{top:0}.right-0{right:0}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}.text-center{text-align:center}.text-gray-200{--text-opacity:1;color:#edf2f7;color:rgba(237,242,247,var(--text-opacity))}.text-gray-300{--text-opacity:1;color:#e2e8f0;color:rgba(226,232,240,var(--text-opacity))}.text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}.text-gray-500{--text-opacity:1;color:#a0aec0;color:rgba(160,174,192,var(--text-opacity))}.text-gray-600{--text-opacity:1;color:#718096;color:rgba(113,128,150,var(--text-opacity))}.text-gray-700{--text-opacity:1;color:#4a5568;color:rgba(74,85,104,var(--text-opacity))}.text-gray-900{--text-opacity:1;color:#1a202c;color:rgba(26,32,44,var(--text-opacity))}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.w-5{width:1.25rem}.w-8{width:2rem}.w-auto{width:auto}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}@media (min-width:640px){.sm\:rounded-lg{border-radius:.5rem}.sm\:block{display:block}.sm\:items-center{align-items:center}.sm\:justify-start{justify-content:flex-start}.sm\:justify-between{justify-content:space-between}.sm\:h-20{height:5rem}.sm\:ml-0{margin-left:0}.sm\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\:pt-0{padding-top:0}.sm\:text-left{text-align:left}.sm\:text-right{text-align:right}}@media (min-width:768px){.md\:border-t-0{border-top-width:0}.md\:border-l{border-left-width:1px}.md\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (min-width:1024px){.lg\:px-8{padding-left:2rem;padding-right:2rem}}@media (prefers-color-scheme:dark){.dark\:bg-gray-800{--bg-opacity:1;background-color:#2d3748;background-color:rgba(45,55,72,var(--bg-opacity))}.dark\:bg-gray-900{--bg-opacity:1;background-color:#1a202c;background-color:rgba(26,32,44,var(--bg-opacity))}.dark\:border-gray-700{--border-opacity:1;border-color:#4a5568;border-color:rgba(74,85,104,var(--border-opacity))}.dark\:text-white{--text-opacity:1;color:#fff;color:rgba(255,255,255,var(--text-opacity))}.dark\:text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}}
-        </style>
+  <!-- Favicons -->
+   <link href="assets/img/Logo.png" rel="icon">
+ <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
-        <style>
-            body {
-                font-family: 'Nunito', sans-serif;
-            }
-        </style>
-    </head>
-    <body class="antialiased">
-        <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-            @if (Route::has('login'))
-                <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
-                    @auth
-                        <a href="{{ url('/home') }}" class="text-sm text-gray-700 underline">Home</a>
-                    @else
-                        <a href="{{ route('login') }}" class="text-sm text-gray-700 underline">Log in</a>
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-                        @if (Route::has('register'))
-                            <a href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 underline">Register</a>
-                        @endif
-                    @endauth
-                </div>
-            @endif
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-            <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
-                    <svg viewBox="0 0 651 192" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto text-gray-700 sm:h-20">
-                        <g clip-path="url(#clip0)" fill="#EF3B2D">
-                            <path d="M248.032 44.676h-16.466v100.23h47.394v-14.748h-30.928V44.676zM337.091 87.202c-2.101-3.341-5.083-5.965-8.949-7.875-3.865-1.909-7.756-2.864-11.669-2.864-5.062 0-9.69.931-13.89 2.792-4.201 1.861-7.804 4.417-10.811 7.661-3.007 3.246-5.347 6.993-7.016 11.239-1.672 4.249-2.506 8.713-2.506 13.389 0 4.774.834 9.26 2.506 13.459 1.669 4.202 4.009 7.925 7.016 11.169 3.007 3.246 6.609 5.799 10.811 7.66 4.199 1.861 8.828 2.792 13.89 2.792 3.913 0 7.804-.955 11.669-2.863 3.866-1.908 6.849-4.533 8.949-7.875v9.021h15.607V78.182h-15.607v9.02zm-1.431 32.503c-.955 2.578-2.291 4.821-4.009 6.73-1.719 1.91-3.795 3.437-6.229 4.582-2.435 1.146-5.133 1.718-8.091 1.718-2.96 0-5.633-.572-8.019-1.718-2.387-1.146-4.438-2.672-6.156-4.582-1.719-1.909-3.032-4.152-3.938-6.73-.909-2.577-1.36-5.298-1.36-8.161 0-2.864.451-5.585 1.36-8.162.905-2.577 2.219-4.819 3.938-6.729 1.718-1.908 3.77-3.437 6.156-4.582 2.386-1.146 5.059-1.718 8.019-1.718 2.958 0 5.656.572 8.091 1.718 2.434 1.146 4.51 2.674 6.229 4.582 1.718 1.91 3.054 4.152 4.009 6.729.953 2.577 1.432 5.298 1.432 8.162-.001 2.863-.479 5.584-1.432 8.161zM463.954 87.202c-2.101-3.341-5.083-5.965-8.949-7.875-3.865-1.909-7.756-2.864-11.669-2.864-5.062 0-9.69.931-13.89 2.792-4.201 1.861-7.804 4.417-10.811 7.661-3.007 3.246-5.347 6.993-7.016 11.239-1.672 4.249-2.506 8.713-2.506 13.389 0 4.774.834 9.26 2.506 13.459 1.669 4.202 4.009 7.925 7.016 11.169 3.007 3.246 6.609 5.799 10.811 7.66 4.199 1.861 8.828 2.792 13.89 2.792 3.913 0 7.804-.955 11.669-2.863 3.866-1.908 6.849-4.533 8.949-7.875v9.021h15.607V78.182h-15.607v9.02zm-1.432 32.503c-.955 2.578-2.291 4.821-4.009 6.73-1.719 1.91-3.795 3.437-6.229 4.582-2.435 1.146-5.133 1.718-8.091 1.718-2.96 0-5.633-.572-8.019-1.718-2.387-1.146-4.438-2.672-6.156-4.582-1.719-1.909-3.032-4.152-3.938-6.73-.909-2.577-1.36-5.298-1.36-8.161 0-2.864.451-5.585 1.36-8.162.905-2.577 2.219-4.819 3.938-6.729 1.718-1.908 3.77-3.437 6.156-4.582 2.386-1.146 5.059-1.718 8.019-1.718 2.958 0 5.656.572 8.091 1.718 2.434 1.146 4.51 2.674 6.229 4.582 1.718 1.91 3.054 4.152 4.009 6.729.953 2.577 1.432 5.298 1.432 8.162 0 2.863-.479 5.584-1.432 8.161zM650.772 44.676h-15.606v100.23h15.606V44.676zM365.013 144.906h15.607V93.538h26.776V78.182h-42.383v66.724zM542.133 78.182l-19.616 51.096-19.616-51.096h-15.808l25.617 66.724h19.614l25.617-66.724h-15.808zM591.98 76.466c-19.112 0-34.239 15.706-34.239 35.079 0 21.416 14.641 35.079 36.239 35.079 12.088 0 19.806-4.622 29.234-14.688l-10.544-8.158c-.006.008-7.958 10.449-19.832 10.449-13.802 0-19.612-11.127-19.612-16.884h51.777c2.72-22.043-11.772-40.877-33.023-40.877zm-18.713 29.28c.12-1.284 1.917-16.884 18.589-16.884 16.671 0 18.697 15.598 18.813 16.884h-37.402zM184.068 43.892c-.024-.088-.073-.165-.104-.25-.058-.157-.108-.316-.191-.46-.056-.097-.137-.176-.203-.265-.087-.117-.161-.242-.265-.345-.085-.086-.194-.148-.29-.223-.109-.085-.206-.182-.327-.252l-.002-.001-.002-.002-35.648-20.524a2.971 2.971 0 00-2.964 0l-35.647 20.522-.002.002-.002.001c-.121.07-.219.167-.327.252-.096.075-.205.138-.29.223-.103.103-.178.228-.265.345-.066.089-.147.169-.203.265-.083.144-.133.304-.191.46-.031.085-.08.162-.104.25-.067.249-.103.51-.103.776v38.979l-29.706 17.103V24.493a3 3 0 00-.103-.776c-.024-.088-.073-.165-.104-.25-.058-.157-.108-.316-.191-.46-.056-.097-.137-.176-.203-.265-.087-.117-.161-.242-.265-.345-.085-.086-.194-.148-.29-.223-.109-.085-.206-.182-.327-.252l-.002-.001-.002-.002L40.098 1.396a2.971 2.971 0 00-2.964 0L1.487 21.919l-.002.002-.002.001c-.121.07-.219.167-.327.252-.096.075-.205.138-.29.223-.103.103-.178.228-.265.345-.066.089-.147.169-.203.265-.083.144-.133.304-.191.46-.031.085-.08.162-.104.25-.067.249-.103.51-.103.776v122.09c0 1.063.568 2.044 1.489 2.575l71.293 41.045c.156.089.324.143.49.202.078.028.15.074.23.095a2.98 2.98 0 001.524 0c.069-.018.132-.059.2-.083.176-.061.354-.119.519-.214l71.293-41.045a2.971 2.971 0 001.489-2.575v-38.979l34.158-19.666a2.971 2.971 0 001.489-2.575V44.666a3.075 3.075 0 00-.106-.774zM74.255 143.167l-29.648-16.779 31.136-17.926.001-.001 34.164-19.669 29.674 17.084-21.772 12.428-43.555 24.863zm68.329-76.259v33.841l-12.475-7.182-17.231-9.92V49.806l12.475 7.182 17.231 9.92zm2.97-39.335l29.693 17.095-29.693 17.095-29.693-17.095 29.693-17.095zM54.06 114.089l-12.475 7.182V46.733l17.231-9.92 12.475-7.182v74.537l-17.231 9.921zM38.614 7.398l29.693 17.095-29.693 17.095L8.921 24.493 38.614 7.398zM5.938 29.632l12.475 7.182 17.231 9.92v79.676l.001.005-.001.006c0 .114.032.221.045.333.017.146.021.294.059.434l.002.007c.032.117.094.222.14.334.051.124.088.255.156.371a.036.036 0 00.004.009c.061.105.149.191.222.288.081.105.149.22.244.314l.008.01c.084.083.19.142.284.215.106.083.202.178.32.247l.013.005.011.008 34.139 19.321v34.175L5.939 144.867V29.632h-.001zm136.646 115.235l-65.352 37.625V148.31l48.399-27.628 16.953-9.677v33.862zm35.646-61.22l-29.706 17.102V66.908l17.231-9.92 12.475-7.182v33.841z"/>
-                        </g>
-                    </svg>
-                </div>
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
 
-                <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
-                    <div class="grid grid-cols-1 md:grid-cols-2">
-                        <div class="p-6">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://laravel.com/docs" class="underline text-gray-900 dark:text-white">Documentation</a></div>
-                            </div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<script>
+  $(document).ready(function(){
+    $("#myModal").modal('show');
+  });
+</script>
 
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
-                                </div>
-                            </div>
-                        </div>
 
-                        <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"></path><path d="M15 13a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://laracasts.com" class="underline text-gray-900 dark:text-white">Laracasts</a></div>
-                            </div>
+  <!-- =======================================================
+  * Template Name: Medicio - v4.0.1
+  * Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
 
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="p-6 border-t border-gray-200 dark:border-gray-700">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://laravel-news.com/" class="underline text-gray-900 dark:text-white">Laravel News</a></div>
-                            </div>
-
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
-                            <div class="flex items-center">
-                                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">Vibrant Ecosystem</div>
-                            </div>
-
-                            <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel's robust library of first-party tools and libraries, such as <a href="https://forge.laravel.com" class="underline">Forge</a>, <a href="https://vapor.laravel.com" class="underline">Vapor</a>, <a href="https://nova.laravel.com" class="underline">Nova</a>, and <a href="https://envoyer.io" class="underline">Envoyer</a> help you take your projects to the next level. Pair them with powerful open source libraries like <a href="https://laravel.com/docs/billing" class="underline">Cashier</a>, <a href="https://laravel.com/docs/dusk" class="underline">Dusk</a>, <a href="https://laravel.com/docs/broadcasting" class="underline">Echo</a>, <a href="https://laravel.com/docs/horizon" class="underline">Horizon</a>, <a href="https://laravel.com/docs/sanctum" class="underline">Sanctum</a>, <a href="https://laravel.com/docs/telescope" class="underline">Telescope</a>, and more.
-                                </div>
-                            </div>
-                        </div>
+<body>
+<div id="myModal" class="modal fade">
+    <div class="modal-dialog col-lg-6">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Book Appointment</h5>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <form>
+                   <div class="form-group">
+ <img src="assets/img/banner.jpg" class="img-fluid" alt="">
+</div>
+                    <div class="form-group">
+                        <input type="number" class="form-control" placeholder="Enter Phone Number">
                     </div>
-                </div>
-
-                <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
-                    <div class="text-center text-sm text-gray-500 sm:text-left">
-                        <div class="flex items-center">
-                            <svg fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" stroke="currentColor" class="-mt-px w-5 h-5 text-gray-400">
-                                <path d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"></path>
-                            </svg>
-
-                            <a href="https://laravel.bigcartel.com" class="ml-1 underline">
-                                Shop
-                            </a>
-
-                            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="ml-4 -mt-px w-5 h-5 text-gray-400">
-                                <path d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
-                            </svg>
-
-                            <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                                Sponsor
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
-                    </div>
-                </div>
+                    
+                    <button type="submit" class="btn btn-primary">Book</button>
+                </form>
             </div>
         </div>
-    </body>
+    </div>
+</div>
+  <!-- ======= Top Bar ======= -->
+  <div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
+      <div class="align-items-center d-none d-md-flex">
+        <i class="bi bi-clock"></i> Monday - Saturday,Open 24 Hrs.
+      </div>
+      <div class="d-flex align-items-center">
+        <i class="bi bi-phone"></i> Call us now +91 07947366606
+      </div>
+    </div>
+  </div>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+
+      <a href="index.html" class="logo me-auto"><img src="assets/img/Logo.png" alt=""></a>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <h1 class="logo me-auto"><a href="index.html">Medicio</a></h1> -->
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto " href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto" href="#departments">Emergency Services</a></li>
+          <li><a class="nav-link scrollto" href="#doctors">Doctors</a></li>
+          <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+             <!--  <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li> -->
+ 
+              <li><a href="#">cosmetic & laser denstistry</a></li>
+              <li><a href="#">Orthodontics (Braces)</a></li>
+              <li><a href="#">Oral surgery & implantology</a></li>
+              <li><a href="#">Endodontics ( Root canal treatment)</a></li>
+               <li><a href="#">Prosthodontics ( crown & bridges )</a></li>
+              <li><a href="#">Periodontics & Paedodontics</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+      <a href="#appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment</a>
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+      <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+      <div class="carousel-inner" role="listbox">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active" style="background-image: url(assets/img/gallery/lab3.jpg)">
+          <div class="container">
+            <h2>Welcome to <span>Samruddhi Dental Skin Hair And Advanced Laser Center </span></h2>
+            <p>Samruddhi  Dental Specialist Skin Hair And Advanced Laser Center in Aurangabad-maharashtra is One of the Best leading businesses in the Dentists.Also known for Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors and much more.</p>
+            <a href="#about" class="btn-get-started scrollto">Read More</a>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item" style="background-image: url(assets/img/gallery/lab2.jpg)">
+        <!--   <div class="container">
+            <h2>Location and Overview:</h2>
+            <p>Established in the year 2015, Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad, Aurangabad-maharashtra is a top player in the category Dentists in the Aurangabad-maharashtra. This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Aurangabad-maharashtra. Over the course of its journey, this business has established a firm foothold in itâ€™s industry. The belief that customer satisfaction is as important as their products and services, have helped this establishment garner a vast base of customers, which continues to grow by the day. This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base. In Aurangabad-maharashtra, this establishment occupies a prominent location in Aurangabad. It is an effortless task in commuting to this establishment as there are various modes of transport readily available. It is at , Besides Naik College Opposite Mahavir Super Shoppe, which makes it easy for first-time visitors in locating this establishment. It is known to provide top service in the following categories: Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors.</p>
+            <a href="#about" class="btn-get-started scrollto">Read More</a>
+          </div> -->
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item" style="background-image: url(assets/img/gallery/lab1.jpg)">
+          <!-- <div class="container">
+            <h2>Products and Services offered:</h2>
+            <p>Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad has a wide range of products and / or services to cater to the varied requirements of their customers. The staff at this establishment are courteous and prompt at providing any assistance. They readily answer any queries or questions that you may have. Pay for the product or service with ease by using any of the available modes of payment, such as Cash, Cheque, NEFT, RTGS. This establishment is functional from 00:00 - 23:59.
+            </p>
+            <p>
+            Please scroll to the top for the address and contact details of Samruddhi Dental Skin Hair And Advanced Laser Center at Aurangabad, Aurangabad-maharashtra.</p>
+            <a href="#about" class="btn-get-started scrollto">Read More</a>
+          </div> -->
+        </div>
+
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+      </a>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Featured Services Section ======= -->
+    <section id="featured-services" class="featured-services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="fas fa-tooth"></i></div>
+              <h4 class="title"><a href="">Advance Dentistry</a></h4>
+              <p class="description">Advance Dental Info </p>
+            </div>
+          </div>
+
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon"><i class="fas fa-heartbeat"></i></div>
+              <h4 class="title"><a href="">Cosmetology</a></h4>
+              <p class="description"> Cosmetology Info</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+              <div class="icon"><i class="fas fa-thermometer"></i></div>
+              <h4 class="title"><a href="">Trichology</a></h4>
+              <p class="description">Trichology info</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="icon"><i class="fas fa-dna"></i></div>
+              <h4 class="title"><a href="">Radiology</a></h4>
+              <p class="description">Radiology Info</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Featured Services Section -->
+
+    <!-- ======= Cta Section ======= -->
+    <!--<section id="cta" class="cta">-->
+    <!--  <div class="container" data-aos="zoom-in">-->
+
+    <!--    <div class="text-center">-->
+    <!--      <h3>In an emergency? Need help now?</h3>-->
+    <!--      <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
+    <!--      <a class="cta-btn scrollto" href="#appointment">Make an Make an Appointment</a>-->
+    <!--    </div>-->
+
+    <!--  </div>-->
+    <!--</section>-->
+    <!-- End Cta Section -->
+
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>About Us</h2>
+          <p>Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad-maharashtra is one of the leading businesses in the Dentists. Also known for Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors and much more. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Samruddhi Dental Skin Hair And Advanced Laser Center, Aurangabad-maharashtra.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-right">
+            <img src="assets/img/banner.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3>Samruddhi Dental Skin Hair And Advanced Laser Center.</h3>
+            <p class="font-italic">
+              Established in the year 2015, Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad, Aurangabad-maharashtra is a top player in the category Dentists in the Aurangabad-maharashtra.  Over the course of its journey, this business has established a firm foothold in itâ€™s industry.  This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base. 
+            </p>
+            <ul>
+              <li><i class="bi bi-check-circle"></i> This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Aurangabad-maharashtra.</li>
+              <li><i class="bi bi-check-circle"></i> The belief that customer satisfaction is as important as their products and services, have helped this establishment garner a vast base of customers, which continues to grow by the day.</li>
+              <li><i class="bi bi-check-circle"></i> It is known to provide top service in the following categories: Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors.</li>
+            </ul>
+            <p>
+             In Aurangabad-maharashtra, this establishment occupies a prominent location in Aurangabad. It is an effortless task in commuting to this establishment as there are various modes of transport readily available. It is at , Besides Naik College Opposite Mahavir Super Shoppe, which makes it easy for first-time visitors in locating this establishment. 
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row no-gutters">
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+            <div class="count-box">
+              <i class="fas fa-user-md"></i>
+              <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
+
+              <p><strong>Doctors</strong> consequuntur quae qui deca rode</p>
+              <a href="#">Find out more &raquo;</a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+            <div class="count-box">
+              <i class="far fa-hospital"></i>
+              <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Departments</strong> adipisci atque cum quia aut numquam delectus</p>
+              <a href="#">Find out more &raquo;</a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+            <div class="count-box">
+              <i class="fas fa-flask"></i>
+              <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Research Lab</strong> aut commodi quaerat. Aliquam ratione</p>
+              <a href="#">Find out more &raquo;</a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+            <div class="count-box">
+              <i class="fas fa-award"></i>
+              <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Awards</strong> rerum asperiores dolor molestiae doloribu</p>
+              <a href="#">Find out more &raquo;</a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Counts Section -->
+
+    <!-- ======= Features Section ======= -->
+    <!--<section id="features" class="features">-->
+    <!--  <div class="container" data-aos="fade-up">-->
+
+    <!--    <div class="row">-->
+    <!--      <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-right">-->
+    <!--        <div class="icon-box mt-5 mt-lg-0">-->
+    <!--          <i class="bx bx-receipt"></i>-->
+    <!--          <h4>Est labore ad</h4>-->
+    <!--          <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>-->
+    <!--        </div>-->
+    <!--        <div class="icon-box mt-5">-->
+    <!--          <i class="bx bx-cube-alt"></i>-->
+    <!--          <h4>Harum esse qui</h4>-->
+    <!--          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>-->
+    <!--        </div>-->
+    <!--        <div class="icon-box mt-5">-->
+    <!--          <i class="bx bx-images"></i>-->
+    <!--          <h4>Aut occaecati</h4>-->
+    <!--          <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>-->
+    <!--        </div>-->
+    <!--        <div class="icon-box mt-5">-->
+    <!--          <i class="bx bx-shield"></i>-->
+    <!--          <h4>Beatae veritatis</h4>-->
+    <!--          <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--      <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("assets/img/demo.jpg");' data-aos="zoom-in"></div>-->
+    <!--    </div>-->
+
+    <!--  </div>-->
+    <!--</section>-->
+    <!-- End Features Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          <p>Our Service Keeps you Smile.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon"><i class="fas fa-tooth"></i></div>
+            <h4 class="title"><a href=""> 01 Cosmetic Dentistry & Laser Dentistry</a></h4>
+            <p class="description">Cosmetic Dentistry:- 
+It involves change in your overall smile to achieve positive attitude for makes you more confident.
+In this procedure we design your smile considering tooth size, shape, colour, position , lip position, colour, gum colour
+Laser Dentistry:- 
+Smile designing ,Veneers, composite, jewds whitening, orthotlt ,Dpigmentation, Botox.
+Its a painless, bloodless procedure. No anesthesia, fast healing ,less surgery time, no post operation medications, invosive procedure.
+Loser tlt includes- Root canal , Depigmentation, of gums, crown lengthening, frenectomy, Apthouswcer, tooth sensitivity, TMJ biostimulation burning mouth syndrome, hemostasis, operculectomy OSMF
+</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon"><i class="fas fa-pills"></i></div>
+            <h4 class="title"><a href=""> 02 Orthodontics</a></h4>
+            <p class="description">Orthodontics treatment is nothing but braces placement.
+Braces are applied in order to connect crowding, gap in between teeth, Malanged teeth & strengthen them with the help of moral or ceramic brakets according to requirement of the patient.
+</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="fas fa-hospital-user"></i></div>
+            <h4 class="title"><a href="">03 Lmplantology & Oral surgery</a></h4>
+            <p class="description">Lmplantology:- 
+Dental implants is permanent replacement of one or more missing tooth
+It saves you neighbouring tooth from damage & it looks very natural.
+Oral surgery:- 
+It includes minor & major surgical procedure like.
+Extraction 
+Disimpaction
+Cancerous & precancerous tlt
+OSMF tlt</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon"><i class="fas fa-dna"></i></div>
+            <h4 class="title"><a href="">04 Conservative & Endodontics</a></h4>
+            <p class="description">Conservative includes-  Tooth filling it may be Amalgum (silver), cement or composite in order to save tooth from further decay.
+Endodontics includes- We deliver painless loser root canal tlt.</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon"><i class="fas fa-wheelchair"></i></div>
+            <h4 class="title"><a href="">05 Prosthodontics</a></h4>
+            <p class="description">1 Dental crown & bridge-
+It is nothing but cap or covering on your healthy tooth to restore its size, shape & structure.
+2 Denture 
+It is replacement of all missing teeth helps to achieve proper speech, esthetic, diet.
+It is removal appliances.</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="fas fa-notes-medical"></i></div>
+            <h4 class="title"><a href="">06 Periodontology & Pedodontics</a></h4>
+            <p class="description">Periodontology:- 
+It deals with your routine teeth cleaning & polishing so as to improve
+Your gum health & reduce problems of bad breathe
+Pedodontics:- 
+It is a separate branch dedicated to kids oral health.
+TLT includes-
+RCT
+Fluorides
+Habit breaking appliance
+Sealents
+Avanced Dentistry
+OPG</p>
+          </div>
+           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="fas fa-notes-medical"></i></div>
+            <h4 class="title"><a href="">11.  Conservative & Endodontics </a></h4>
+            <p class="description">Conservative includes- Tooth filling it may be Amalgum (silver), cement or composite in order to save tooth from further decay.
+Endodontics includes-We deliver painless loser root canal tlt.</p>
+          </div>
+          <!-- <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">-->
+          <!--  <div class="icon"><i class="fas fa-notes-medical"></i></div>-->
+          <!--  <h4 class="title"><a href=""> Endodontics ( Root canal treatment)</a></h4>-->
+          <!--  <p class="description">Endodontics ( Root canal treatment) info</p>-->
+          <!--</div>-->
+          <!-- <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">-->
+          <!--  <div class="icon"><i class="fas fa-notes-medical"></i></div>-->
+          <!--  <h4 class="title"><a href="">Prosthodontics ( crown & bridges )</a></h4>-->
+          <!--  <p class="description">Prosthodontics ( crown & bridges ) info</p>-->
+          <!--</div>-->
+          <!--<div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">-->
+          <!--  <div class="icon"><i class="fas fa-notes-medical"></i></div>-->
+          <!--  <h4 class="title"><a href="">Periodontics & Paedodontics</a></h4>-->
+          <!--  <p class="description">Periodontics & Paedodontics info</p>-->
+          <!--</div>-->
+        </div>
+        
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Appointment Section ======= -->
+    <section id="appointment" class="appointment section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Make an Appointment</h2>
+          <p>Fill Below Form For Booking Appointment</p>
+        </div>
+
+        <form action="forms/appointment.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
+          <div class="row">
+            <div class="col-md-4 form-group">
+              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+            </div>
+            <div class="col-md-4 form-group mt-3 mt-md-0">
+              <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+            </div>
+            <div class="col-md-4 form-group mt-3 mt-md-0">
+              <input type="tel" class="form-control" name="phone" id="phone" placeholder="Your Phone" required>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-4 form-group mt-3">
+              <input type="date" name="date" class="form-control datepicker" id="date" placeholder="Appointment Date" required>
+            </div>
+            <div class="col-md-4 form-group mt-3">
+              <select name="department" id="department" class="form-select">
+                <option value="">Select Service</option>
+                <option value="Department 1">Department 1</option>
+                <option value="Department 2">Department 2</option>
+                <option value="Department 3">Department 3</option>
+              </select>
+            </div>
+            <div class="col-md-4 form-group mt-3">
+              <select name="doctor" id="doctor" class="form-select">
+                <option value="">Select Doctor</option>
+                <option value="Doctor 1">Dr.Samruddhi</option>
+                <option value="Doctor 2">Dr.Ajay</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group mt-3">
+            <textarea class="form-control" name="message" rows="5" placeholder="Message (Optional)"></textarea>
+          </div>
+          <div class="my-3">
+            <div class="loading">Loading</div>
+            <div class="error-message"></div>
+            <div class="sent-message">Your appointment request has been sent successfully. Thank you!</div>
+          </div>
+          <div class="text-center"><button type="submit">Make an Appointment</button></div>
+        </form>
+
+      </div>
+    </section><!-- End Appointment Section -->
+
+    <!-- ======= Departments Section ======= -->
+    <section id="departments" class="departments">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Emergency Services</h2>
+          <p>Cardiology
+Gynecology
+Medicine
+Diabetology
+
+
+ 
+
+</p>
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-4 mb-5 mb-lg-0">
+            <ul class="nav nav-tabs flex-column">
+              <li class="nav-item">
+                <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
+                  <h4>Cardiology</h4>
+                  <p>Dr.Prashant Udgire.</p>
+                </a>
+              </li>
+              <li class="nav-item mt-2">
+                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
+                  <h4>Gynecology</h4>
+                  <p>Dr.KunalJadhav.</p>
+                </a>
+              </li>
+              <li class="nav-item mt-2">
+                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
+                  <h4>Medicine</h4>
+                  <p>Dr. Prashant Chaudary.</p>
+                </a>
+              </li>
+              <li class="nav-item mt-2">
+                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
+                  <h4>Diabetology</h4>
+                  <p>Dr. Prashant Chaudary</p>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-8">
+            <div class="tab-content">
+              <div class="tab-pane active show" id="tab-1">
+                <h3>Cardiology</h3>
+                <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
+                <img src="assets/img/demo.jpg" alt="" class="img-fluid">
+                <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+              </div>
+              <div class="tab-pane" id="tab-2">
+                <h3>Gynecology</h3>
+                <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
+                <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
+                <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+              </div>
+              <div class="tab-pane" id="tab-3">
+                <h3>Medicine</h3>
+                <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
+                <img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
+                <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+              </div>
+              <div class="tab-pane" id="tab-4">
+                <h3>Diabetology</h3>
+                <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
+                <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
+                <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Departments Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Testimonials</h2>
+          <p>Patients Review About Samruddhi Dental Clinic</p>
+        </div>
+
+        <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                 Dr. Samruddhi Chaudhary is a very knowledgeable and good doctor. The equipment's at the clinic are very advanced and the hygiene is well maintained. I would highly recommend all of you to visit her whenever in need.
+
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/default.png" class="testimonial-img" alt="">
+                <h3>Rishi Jain</h3>
+                <h4>Patient</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Dr Samruddhi Chowdhary is a renowned doctor. Clinic setup is advance with high end technology. Nice counseling to each and every patient with a good treatment.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/default.png" class="testimonial-img" alt="">
+                <h3>Sanjay Jabade</h3>
+                <h4>Patient</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+           <!-- End testimonial item -->
+
+          
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+               Samrudddhi Clinic deserve 5 ðŸŒŸ  .... Very nice experience dear really u r inspiration for all...ur clinic is one of the best dental clinic in Aurangabad... I will advice everyone who hv dental problems visit atleast one time.... With lots of loveðŸ’“Wishing u every success n goodlck in life all the best dear... and thank you for giving us such a wonderful treatment....
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/default.png" class="testimonial-img" alt="">
+                <h3>Smita Kedar</h3>
+                <h4>Patient</h4>
+              </div>
+            </div><!-- End testimonial item -->
+            <!--0-->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                It's been a great experience..I can say after RCT for 3 teeths & white cement filling for 2 teeths they have efficiently managed. They are maintaining good cleanliness & hygiene which is most important during Corona days.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/abhishekpatil.png" class="testimonial-img" alt="">
+                <h3>Abhishek patil</h3>
+                <h4>Patient</h4>
+              </div>
+            </div>
+            <!--1-->
+             <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Unbelievable experience ! Proper treatment with proper guidance ! Such hospital I never seen ever ! Mind blowing painless treatment in minimum prices comparing to other hospital ! You will  not give smile you will laugh naturally ! Samruddhi dental clinic returns your lost smile & fill happiness in our life because without teeth we canâ€™t express happiness properly !.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/default.png" class="testimonial-img" alt="">
+                <h3>Akshay Deshmukh
+</h3>
+                <h4>Patient</h4>
+              </div>
+            </div>
+            <!--2-->
+             <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                One of the best experiences anyone who has doubts or is afraid because of prior bad dental service that anyone can have. Dr. Samruddhi and her entire staff is amazing. They make sure that you are relaxed. They explain everything and is genuinely interested in how they can help you get over your fears, and they do their best to please the client. I would recommend them to anyone. They have such high standards and are very professional.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/default.png" class="testimonial-img" alt="">
+                <h3>Amit Pawar</h3>
+                <h4>Patient</h4>
+              </div>
+            </div>
+            <!--3-->
+             <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+               One of the best Doctor in town. Dr. Samruddhi and her entire staff is really wonderful. They have new equipments. They make sure that you are relaxed. Dr  explains everything in detail and she helps you to understand the procedure. I would really recommend them to everyone. They have such high standards and are very professional. Doctor is so friendly and helpful. For me it was really a painless treatment.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/default.png" class="testimonial-img" alt="">
+                <h3>Kalyani Dixit</h3>
+                <h4>Patient</h4>
+              </div>
+            </div>
+             <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                 This is very advance technology clinic in aurangabad , always prefer for metal Free crown..... Thank You !!!
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/default.png" class="testimonial-img" alt="">
+                <h3>dinesh phade</h3>
+                <h4>Patient</h4>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                It's been a great experience..I can say after RCT for 3 teeths & white cement filling for 2 teeths they have efficiently managed. They are maintaining good cleanliness & hygiene which is most important during Corona days.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/abhishekpatil.png" class="testimonial-img" alt="">
+                <h3>Abhishek patil</h3>
+                <h4>Patient</h4>
+              </div>
+            </div>
+              <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Excellent treatment, one of the best clinic in Aurangabad.
+
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/default.png" class="testimonial-img" alt="">
+                <h3>Darshana Nilesh Lunawat</h3>
+                <h4>Patient</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+           
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+    <!-- ======= Doctors Section ======= -->
+    <section id="doctors" class="doctors section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Doctors</h2>
+          <p>Higly Educated and Experienced Doctors </p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/doctors/doctors-11.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dr.SamrudhiChaudaryShinde</h4>
+                <span>Chief Medical Officer</span>
+              </div>
+            </div>
+          </div>
+
+
+ 
+
+
+          <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/doctors/doctors-22.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dr.Ajay Anil Shinde</h4>
+                <span>Anesthesiologist</span>
+              </div>
+            </div>
+          </div>
+
+           <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="assets/img/doctors/doctors-33.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dr.Akshay Pathak</h4>
+                <span>Cardiology</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/doctors/doctors-44.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dr.Pawan Raktade</h4>
+                <span>Neurosurgeon</span>
+              </div>
+            </div>
+          </div>
+           <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/doctors/doctors-44.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Dr.Vishakha Raktade</h4>
+                <span>Neurosurgeon</span>
+              </div>
+            </div>
+          </div>
+  <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/doctors/doctors-44.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Amanda Jepson</h4>
+                <span>Neurosurgeon</span>
+              </div>
+            </div>
+          </div>
+ 
+        </div>
+
+      </div>
+    </section><!-- End Doctors Section -->
+
+    <!-- ======= Gallery Section ======= -->
+    <section id="gallery" class="gallery">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Gallery</h2>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+        </div>
+
+        <div class="gallery-slider swiper-container">
+          <div class="swiper-wrapper align-items-center">
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab1.jpg"><img src="assets/img/gallery/lab1.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab2.jpg"><img src="assets/img/gallery/lab2.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab3.jpg"><img src="assets/img/gallery/lab3.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab4.jpg"><img src="assets/img/gallery/lab4.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab5.jpg"><img src="assets/img/gallery/lab5.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab6.jpg"><img src="assets/img/gallery/lab6.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-7.jpg"><img src="assets/img/gallery/gallery-7.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-8.jpg"><img src="assets/img/gallery/gallery-8.jpg" class="img-fluid" alt=""></a></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Gallery Section -->
+
+    <!-- ======= Pricing Section ======= -->
+  <!--   <section id="pricing" class="pricing">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Blog</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6">
+            <div class="box" data-aos="fade-up" data-aos-delay="100">
+             
+              <h4></h4>
+           <p>dfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsd</p>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Read More..</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+            <div class="box featured" data-aos="fade-up" data-aos-delay="200">
+              <h3>Business</h3>
+              <h4><sup>$</sup>19<span> / month</span></h4>
+              <ul>
+                <li>Aida dere</li>
+                <li>Nec feugiat nisl</li>
+                <li>Nulla at volutpat dola</li>
+                <li>Pharetra massa</li>
+                <li class="na">Massa ultricies mi</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+            <div class="box" data-aos="fade-up" data-aos-delay="300">
+              <h3>Developer</h3>
+              <h4><sup>$</sup>29<span> / month</span></h4>
+              <ul>
+                <li>Aida dere</li>
+                <li>Nec feugiat nisl</li>
+                <li>Nulla at volutpat dola</li>
+                <li>Pharetra massa</li>
+                <li>Massa ultricies mi</li>
+              </ul>
+              <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>
+
+         
+        </div>
+
+      </div>
+    </section> --><!-- End Pricing Section -->
+ 
+
+    <!-- ======= Frequently Asked Questioins Section ======= -->
+    <section id="faq" class="faq section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Frequently Asked Questioins( FAQ's )</h2>
+         <!--  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+        </div>
+
+        <ul class="faq-list">
+
+          <li>
+            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">1. What are the various mode of payment accepted here ?
+ <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq1" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                You can make payment Via Cash, Cheque, NEFT, RTGS.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">2. Which is the nearest landmark ?
+<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq2" class="collapse" data-bs-parent=".faq-list">
+              <p>
+               You can easily locate the establishment as it is in close proximity to Besides Naik College Opposite Mahavir Super Shoppe
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">3. What are its hours of operation ?
+<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq3" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                The establishment is functional on  </p>
+<ul>
+<li>Monday:- Open 24 Hrs</li>
+<li>Tuesday:- Open 24 Hrs</li>
+<li>Wednesday:- Open 24 Hrs</li>
+<li>Thursday:- Open 24 Hrs</li>
+<li>Friday:- Open 24 Hrs</li>
+<li>Saturday:- Open 24 Hrs</li>
+<li>Sunday:- Open 24 Hrs</li>
+</ul>
+            
+            </div>
+          </li>
+
+ 
+
+        </ul>
+
+      </div>
+    </section><!-- End Frequently Asked Questioins Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+         <!--  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+        </div>
+
+      </div>
+
+      <div>
+        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d962768.6234850703!2d75.31545898366619!3d19.50659632635501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdba2c07f5c5937%3A0x78f1566997e9c086!2sSamruddhi%20Dental%20skin%20hair%20and%20advanced%20laser%20center!5e0!3m2!1sen!2sin!4v1616702152458!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" frameborder="0" ></iframe>
+      
+      </div>
+
+      <div class="container">
+
+        <div class="row mt-5">
+
+          <div class="col-lg-6">
+
+            <div class="row">
+              <div class="col-md-12">
+                <div class="info-box">
+                  <i class="bx bx-map"></i>
+                  <h3>Our Address</h3>
+                  <p>CIDCO N5, BESIDE NAIK COLLEGE, Town Center, Connaught Place </p>
+                  <!--<p> Besides Naik College Opposite Mahavir Super Shoppe, </p>-->
+                  <p>Aurangabad, Aurangabad-Maharashtra - 431001.</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="info-box mt-4">
+                  <i class="bx bx-envelope"></i>
+                  <h3>Email Us</h3>
+                  <p>samrudhichaudhary@gmail.com<br>admin@samruddhidentalclinic.com<br>contact@samruddhidental.com</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="info-box mt-4">
+                  <i class="bx bx-phone-call"></i>
+                  <h3>Call Us</h3>
+
+                  <p>+91 9765799994<br> +91 9405484847 <br>+91 07947366606<br> +91 07947366606</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-6">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col form-group">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="footer-info">
+              <h3>Samruddhi Dental Skin Hair And Advanced Laser Center</h3>
+              <p>Samruddhi Dental Specialist Skin Hair And Advanced Laser Center in Aurangabad-maharashtra is one of the leading Hospital in the Dentists. Also known for Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors and much more. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Samruddhi Dental Skin Hair And Advanced Laser Center, Aurangabad-maharashtra.</p> <strong>Address:</strong><p>
+               Savitaraj Appartment Flat No D4 Cannought Garden,Besides Naik College Opposite Mahavir Super Shoppe.<br>
+                Aurangabad, Aurangabad-Maharashtra - 431001<br><br>
+                <strong>Phone:</strong> +91 07947366606<br>
+                <strong>Email:</strong> admin@samruddhidentalclinic.com<br>
+              </p>
+              <div class="social-links mt-3">
+                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="https://www.facebook.com/SamruddhiDentalCare/" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+                  
+              <li><i class="bx bx-chevron-right"></i> <a href="#"> Best Dentists In Aurangabad</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Best Dentists In Maharashtra</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Best Dental Clinics in Aurangabad</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Best Skin Clinics in Aurangabad</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Skin Care Clinics in Aurangabad-Maharashtra </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Best Dermatologist Doctor in Aurangabad </a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#">Dr Samruddhi Shinde Dentist ,Skin Specialist, Laser Treatment</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+
+              <li><i class="bx bx-chevron-right"></i> <a href="#">cosmetic & laser denstistry</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Orthodontics (Braces)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Oral surgery & implantology</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Endodontics ( Root canal treatment)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Prosthodontics ( crown & bridges )</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Periodontics & Paedodontics</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+                  
+    <li><i class="bx bx-chevron-right"></i> <a href="#">cosmetic & laser denstistry</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Orthodontics (Braces)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Oral surgery & implantology</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Endodontics ( Root canal treatment)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Prosthodontics ( crown & bridges )</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Periodontics & Paedodontics</a></li>
+            </ul>
+          </div>
+           
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Our Newsletter</h4>
+            <p>Get Updates About Our News & Services</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Samruddhi Dental Skin Hair And Advanced Laser Center</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/medicio-free-bootstrap-theme/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top "><i class="bi bi-arrow-up-short"></i></a>
+<!-- <div id="bottom">
+    <button id="bot_open" class="btn btn-primary btn-rounded">Button</button>
+  </div> -->
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "918830233538", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            position: "right", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
+</body>
+
 </html>
