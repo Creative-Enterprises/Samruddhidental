@@ -27,7 +27,7 @@
     <script src="./js/dashboard/dashboard-1.js"></script>
 
 
-    
+
     <script src="./plugins/highlightjs/highlight.pack.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 
@@ -51,3 +51,4 @@
 
         })(jQuery);
     </script>
+     @yield('script')

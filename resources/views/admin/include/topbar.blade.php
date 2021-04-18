@@ -167,7 +167,12 @@
                                         <li>
                                             <a href="page-lock.html"><i class="icon-lock"></i> <span>Lock Screen</span></a>
                                         </li>
-                                        <li><a href="page-login.html"><i class="icon-key"></i> <span>Logout</span></a></li>
+                                        <li> <a class="dropdown-item text-danger" href="#"
+                       onclick="event.preventDefault();document.getElementById('logout-form').submit()">
+                        <form id="logout-form" action="{{ route('logout') }}" method="post">
+                            @csrf
+                        </form>
+                         <i class="mdi mdi-power font-size-17 text-muted align-middle mr-1 text-danger"></i> <span>Logout</span></a></li>
                                     </ul>
                                 </div>
                             </div>
