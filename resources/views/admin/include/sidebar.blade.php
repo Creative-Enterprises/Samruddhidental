@@ -3,13 +3,14 @@
                 <ul class="metismenu" id="menu">
                     <li class="nav-label">Dashboard</li>
                     <li>
-                        <a class="has-arrow" href="javascript:void()" aria-expanded="false">
-                            <i class="icon-speedometer menu-icon"></i><span class="nav-text">Dashboard</span>
-                        </a>
-                        <ul aria-expanded="false">
-                            <li><a href="./index.html">Home 1</a></li>
-                            <!-- <li><a href="./index-2.html">Home 2</a></li> -->
-                        </ul>
+                       
+                            <a href="./layout-blank.html"><i class="icon-speedometer menu-icon"></i><span class="nav-text">Dashboard</a></span>
+                       
+                    </li>
+                     <li>
+                       
+                            <a href="/"><i class="fa fa-doctor"></i><span class="nav-text">Website</a></span>
+                       
                     </li>
                     <li class="mega-menu mega-menu-sm">
                         <a class="has-arrow" href="javascript:void()" aria-expanded="false">
