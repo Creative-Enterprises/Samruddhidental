@@ -31,7 +31,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-sm-6">
                         <div class="card gradient-1">
-                            <a href="#rem"><div class="card-body">
+                            <a href="/home"><div class="card-body">
 
                                 <h3 class="card-title text-white">Todays Reamaining</h3>
                                 <div class="d-inline-block">
@@ -45,7 +45,6 @@
                     </div>
                     <div class="col-lg-3 col-sm-6">
                         <div class="card gradient-2">
-                             <a href="/allappointments">
                             <div class="card-body">
                                 <h3 class="card-title text-white">Todays Total</h3>
                                 <div class="d-inline-block">
@@ -54,7 +53,6 @@
                                 </div>
                                 <span class="float-right display-5 opacity-5"><i class="fa fa-money"></i></span>
                             </div>
-                            </a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6">
@@ -175,9 +173,9 @@
                         <div class="card">
                             <div class="card-body">
                                 <div class="text-center">
-                                    <span class="display-5"><i class="icon-check gradient-4-text"></i></span>
-                                    <h2 class="mt-3">10 Reviews</h2>
-                                    <p>Currently active</p><a href="/allreviews" class="btn gradient-4 btn-lg border-0 btn-rounded px-5">Add
+                                    <span class="display-5"><i class="icon-user gradient-4-text"></i></span>
+                                    <h2 class="mt-3">5210 Users</h2>
+                                    <p>Currently active</p><a href="javascript:void()" class="btn gradient-4 btn-lg border-0 btn-rounded px-5">Add
                                         more</a>
                                 </div>
                             </div>
@@ -199,76 +197,21 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-6">
                         <div class="card">
                             <div class="card-body">
                                 <div class="text-center">
- <img alt="" src="images/users/4.jpg" style="width:465px;height:300px;">                                    <h4 class="card-widget__title text-dark mt-3">Patient Name</h4>
+                                    <img alt="" class="rounded-circle mt-4" src="images/users/5.jpg">
+                                    <h4 class="card-widget__title text-dark mt-3">Patient Name</h4>
                                     <p class="text-muted">Patient Age/Gender</p>
-                                     <div class="sweetalert m-t-30">
-                                                                                
-                                         <button type="button" class="btn mb-1 btn-success sweet-success">Accept <span class="btn-icon-right"><i class="fa fa-check"></i></span>
+                                     <button type="button" class="btn mb-1 btn-success sweet-success">Accept <span class="btn-icon-right"><i class="fa fa-check"></i></span>
                                     </button>
                                                                        <!--<button type="button" class="btn mb-1 btn-rounded btn-success">Accept</button>-->
                                                                        <!--        <button type="button" class="btn mb-1 btn-rounded btn-danger">Reject</button>-->
                                                                                  <button type="button" class="btn mb-1 btn-danger sweet-confirm">Remove <span class="btn-icon-right"><i class="fa fa-close"></i></span>
                                     </button>
-                                    </div>
-                                    
-                                </div>
-                                  <div class="card">
-                            <div class="card-body">
-                                <div class="basic-list-group">
-                                    <div class="row">
-                                        <div class="col-xl-4 col-md-4 col-sm-3 mb-4 mb-sm-0">
-                                            <div class="list-group" id="list-tab" role="tablist"><a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">History</a> <a class="list-group-item list-group-item-action" id="list-profile-list"
-                                                    data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Profile</a> <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab"
-                                                    aria-controls="messages">Messages</a>
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="col-xl-8 col-md-8 col-sm-9">
-                                            <div class="tab-content" id="nav-tabContent">
-                                                <div class="tab-pane fade show active" id="list-home">
-                                                      <p>Last Visited On 21 Apr 2020 Total 3 times Checked 
-                                                   </p>                 
-
-                                                </div>
-                                                <div class="tab-pane fade" id="list-profile" role="tabpanel">
-                                                     <h4>About Me</h4>
-                                <p class="text-muted">Hi, I'm Pikamy, has been the industry standard dummy text ever since the 1500s.</p>
-                                <ul class="card-profile__info">
-                                      <li><strong class="text-dark mr-4">Gender</strong> <span>Female</span></li>
-                                     <li><strong class="text-dark mr-4">Age</strong> <span>27</span></li>
-                                    <li class="mb-1"><strong class="text-dark mr-4">Mobile</strong> <span>01793931609</span></li>
-                                    <li class="mb-1"><strong class="text-dark mr-4">Whatsapp No.</strong> <span>01793931609</span></li>
-                                    <li><strong class="text-dark mr-4">Email</strong> <span>name@domain.com</span></li>
-                                </ul>
-                                                  
-                                                </div>
-                                                <div class="tab-pane fade" id="list-messages">
-                                                                                    <form action="#" class="form-profile">
-                                    <div class="form-group">
-                                        <textarea class="form-control" name="textarea" id="textarea" cols="30" rows="2" placeholder="Please Visit Samruddhi Dental Clinic your Appointment is at 9am please arrrive at time -Team Samruddhi Dental Aurangabad" value="Please Visit Samruddhi Dental Clinic your Appointment is at 9am please arrrive at time -Team Samruddhi Dental Aurangabad"></textarea>
-                                    </div>
-                                    <div class="d-flex align-items-center">
-                                       
-                                         <button class="btn btn-success px-3 ml-4"><a href="https://wa.me/918830233538/?text=Please Visit Samruddhi Dental Clinic your Appointment is at 9am please arrrive at time -Team Samruddhi Dental Aurangabad" target="_blank"><i class="fa fa-whatsapp"></i> Send by Whatapps</a>
-
-                                       </button>
-                                    </div>
-                                </form>
-
-                                                </div>
-                                               
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                </div>
                                 </div>
                             </div>
-                             
                             <div class="card-footer border-0 bg-transparent">
                                 <div class="row">
                                     <div class="col-4 border-right-1 pt-3">
@@ -279,7 +222,7 @@
                                     </div>
                                     <div class="col-4 border-right-1 pt-3"><a class="text-center d-block text-muted" href="javascript:void()">
                                         <i class="fa fa-heart gradient-3-text"></i>
-                                            <p class="">3 Times Visited</p>
+                                            <p class="">Like</p>
                                         </a>
                                     </div>
                                     <div class="col-4 pt-3"><a class="text-center d-block text-muted" href="javascript:void()">
@@ -293,14 +236,130 @@
                     </div>
 
                   
-                  
+                    <div class="col-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="text-center">
+                                    <img alt="" class="rounded-circle mt-4" src="images/users/4.jpg">
+                                    <h4 class="card-widget__title text-dark mt-3">Bennie Belvin</h4>
+                                    <p class="text-muted">Junior Tester</p>
+                                    <a class="btn gradient-4 btn-lg border-0 btn-rounded px-5" href="javascript:void()">Accept</a><a class="btn gradient-4 btn-lg border-0 btn-rounded px-5" href="javascript:void()">Reject</a>
+
+                                </div>
+                            </div>
+                            <div class="card-footer border-0 bg-transparent">
+                                <div class="row">
+                                    <div class="col-4 border-right-1 pt-3">
+                                        <a class="text-center d-block text-muted" href="javascript:void()">
+                                            <i class="fa fa-star gradient-1-text" aria-hidden="true"></i>
+                                            <p class="">Star</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4 border-right-1 pt-3"><a class="text-center d-block text-muted" href="javascript:void()">
+                                        <i class="fa fa-heart gradient-3-text"></i>
+                                            <p class="">Like</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4 pt-3"><a class="text-center d-block text-muted" href="javascript:void()">
+                                        <i class="fa fa-envelope gradient-4-text"></i>
+                                            <p class="">Email</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
 
                 
                 
             </div>
-                        <div class="container-fluid">
+              <div class="container-fluid">
+  <div class="row">
+                    <div class="col-lg-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title">Next Appoitment</h4>
+                                <div class="basic-list-group">
+                                    <div class="row">
+                                        <div class="col-xl-4 col-md-4 col-sm-3 mb-4 mb-sm-0">
+                                            <div class="list-group" id="list-tab" role="tablist"><a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Home</a> <a class="list-group-item list-group-item-action" id="list-profile-list"
+                                                    data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Profile</a> <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab"
+                                                    aria-controls="messages">Messages</a> <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">Settings</a>
+                                            </div>
+                                        </div>
+                                        <div class="col-xl-8 col-md-8 col-sm-9">
+                                            <div class="tab-content" id="nav-tabContent">
+                                                <div class="tab-pane fade show active" id="list-home">
+                                                                        <div class="col-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="text-center">
+                                    <img alt="" class="rounded-circle mt-4" src="images/users/4.jpg">
+                                    <h4 class="card-widget__title text-dark mt-3">Bennie Belvin</h4>
+                                    <p class="text-muted">Junior Tester</p>
+                                    <a class="btn gradient-4 btn-lg border-0 btn-rounded px-5" href="javascript:void()">Folllow</a>
+                                </div>
+                            </div>
+                            <div class="card-footer border-0 bg-transparent">
+                                <div class="row">
+                                    <div class="col-4 border-right-1 pt-3">
+                                        <a class="text-center d-block text-muted" href="javascript:void()">
+                                            <i class="fa fa-star gradient-1-text" aria-hidden="true"></i>
+                                            <p class="">Star</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4 border-right-1 pt-3"><a class="text-center d-block text-muted" href="javascript:void()">
+                                        <i class="fa fa-heart gradient-3-text"></i>
+                                            <p class="">Like</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4 pt-3"><a class="text-center d-block text-muted" href="javascript:void()">
+                                        <i class="fa fa-envelope gradient-4-text"></i>
+                                            <p class="">Email</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                                                </div>
+                                                <div class="tab-pane fade" id="list-profile" role="tabpanel">
+                                                    <p>Velit aute mollit ipsum ad dolor consectetur nulla officia culpa adipisicing exercitation fugiat tempor. Voluptate deserunt sit sunt nisi aliqua fugiat proident ea ut. Mollit voluptate reprehenderit occaecat
+                                                    nisi ad non minim tempor sunt voluptate consectetur exercitation id ut nulla. Ea et fugiat aliquip nostrud sunt incididunt consectetur culpa aliquip eiusmod dolor. Anim ad Lorem aliqua in cupidatat nisi
+                                                    enim eu nostrud do aliquip veniam minim.</p>
+                                                    <p>Velit aute mollit ipsum ad dolor consectetur nulla officia culpa adipisicing exercitation fugiat tempor. Voluptate deserunt sit sunt nisi aliqua fugiat proident ea ut. Mollit voluptate reprehenderit occaecat
+                                                    nisi ad non minim tempor sunt voluptate consectetur exercitation id ut nulla. Ea et fugiat aliquip nostrud sunt incididunt consectetur culpa aliquip eiusmod dolor. Anim ad Lorem aliqua in cupidatat nisi
+                                                    enim eu nostrud do aliquip veniam minim.</p>
+                                                </div>
+                                                <div class="tab-pane fade" id="list-messages">
+                                                    <p>Velit aute mollit ipsum ad dolor consectetur nulla officia culpa adipisicing exercitation fugiat tempor. Voluptate deserunt sit sunt nisi aliqua fugiat proident ea ut. Mollit voluptate reprehenderit occaecat
+                                                    nisi ad non minim tempor sunt voluptate consectetur exercitation id ut nulla. Ea et fugiat aliquip nostrud sunt incididunt consectetur culpa aliquip eiusmod dolor. Anim ad Lorem aliqua in cupidatat nisi
+                                                    enim eu nostrud do aliquip veniam minim.</p>
+                                                    <p>Velit aute mollit ipsum ad dolor consectetur nulla officia culpa adipisicing exercitation fugiat tempor. Voluptate deserunt sit sunt nisi aliqua fugiat proident ea ut. Mollit voluptate reprehenderit occaecat
+                                                    nisi ad non minim tempor sunt voluptate consectetur exercitation id ut nulla. Ea et fugiat aliquip nostrud sunt incididunt consectetur culpa aliquip eiusmod dolor. Anim ad Lorem aliqua in cupidatat nisi
+                                                    enim eu nostrud do aliquip veniam minim.</p>
+                                                </div>
+                                                <div class="tab-pane fade" id="list-settings">
+                                                    <p>Velit aute mollit ipsum ad dolor consectetur nulla officia culpa adipisicing exercitation fugiat tempor. Voluptate deserunt sit sunt nisi aliqua fugiat proident ea ut. Mollit voluptate reprehenderit occaecat
+                                                    nisi ad non minim tempor sunt voluptate consectetur exercitation id ut nulla. Ea et fugiat aliquip nostrud sunt incididunt consectetur culpa aliquip eiusmod dolor. Anim ad Lorem aliqua in cupidatat nisi
+                                                    enim eu nostrud do aliquip veniam minim.</p>
+                                                    <p>Velit aute mollit ipsum ad dolor consectetur nulla officia culpa adipisicing exercitation fugiat tempor. Voluptate deserunt sit sunt nisi aliqua fugiat proident ea ut. Mollit voluptate reprehenderit occaecat
+                                                    nisi ad non minim tempor sunt voluptate consectetur exercitation id ut nulla. Ea et fugiat aliquip nostrud sunt incididunt consectetur culpa aliquip eiusmod dolor. Anim ad Lorem aliqua in cupidatat nisi
+                                                    enim eu nostrud do aliquip veniam minim.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="card">
@@ -461,10 +520,9 @@
                     </div>
                 </div>
             </div>
-
             
                  <div class="container-fluid">
-                <div class="row" id="rem">
+                <div class="row">
                     <div class="col-12">
                         <div class="card">
                             <div class="card-body">

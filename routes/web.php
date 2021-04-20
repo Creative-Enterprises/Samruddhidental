@@ -24,3 +24,7 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/allappointments', [App\Http\Controllers\HomeController::class, 'allappointments'])->name('appoitments');
+Route::get('/allservices', [App\Http\Controllers\HomeController::class, 'allservices'])->name('services');
+Route::get('/allreviews', [App\Http\Controllers\HomeController::class, 'allreviews'])->name('reviews');
+Route::get('/allgalleries', [App\Http\Controllers\HomeController::class, 'allgalleries'])->name('gallery');

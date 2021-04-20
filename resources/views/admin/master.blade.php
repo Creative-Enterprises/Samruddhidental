@@ -33,9 +33,9 @@
             <div class="brand-logo">
                 <a href="index.html">
                     <b class="logo-abbr"><img src="images/logo.png" alt=""> </b>
-                    <span class="logo-compact"><img src="./images/logo-compact.png" alt=""></span>
+                    <span class="logo-compact"><img src="./images/logo-compact2.png" alt=""></span>
                     <span class="brand-title">
-                        <img src="images/logo-text2.png" alt="">
+                        <img src="assets/img/Logo.png" alt=""  style="width:100px;height:50px;">
                     </span>
                 </a>
             </div>
@@ -61,7 +61,9 @@
         <!--**********************************
             Sidebar end
         ***********************************-->
+      
   @yield('content')
+  
         <!--**********************************
             Content body start
         ***********************************-->

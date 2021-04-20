@@ -19,15 +19,19 @@
     <script src="./plugins/moment/moment.min.js"></script>
     <script src="./plugins/pg-calendar/js/pignose.calendar.min.js"></script>
     <!-- ChartistJS -->
-    <script src="./plugins/chartist/js/chartist.min.js"></script>
-    <script src="./plugins/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js"></script>
 <script src="./plugins/tables/js/jquery.dataTables.min.js"></script>
     <script src="./plugins/tables/js/datatable/dataTables.bootstrap4.min.js"></script>
     <script src="./plugins/tables/js/datatable-init/datatable-basic.min.js"></script>
+ <!--<script src="./plugins/sweetalert/js/sweetalert.min.js"></script>-->
+ <!--   <script src="./plugins/sweetalert/js/sweetalert.init.js"></script>-->
 
+        <script src="./plugins/sweet-alert2/sweetalert2.min.js"></script>
+
+    
 
     <script src="./js/dashboard/dashboard-1.js"></script>
 
+    <script src="./plugins/jquery/jquery.min.js"></script>
 
 
     <script src="./plugins/highlightjs/highlight.pack.min.js"></script>
