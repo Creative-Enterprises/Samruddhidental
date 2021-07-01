@@ -4,6 +4,7 @@
             Nav header end
         ***********************************-->
 @section('css')
+ <link href="./plugins/tables/css/datatable/dataTables.bootstrap4.min.css" rel="stylesheet">
 
 @section('css')
         <!--**********************************
@@ -249,6 +250,9 @@
         
     @endsection('content')
     @section('script')
+     <script src="./plugins/tables/js/jquery.dataTables.min.js"></script>
+    <script src="./plugins/tables/js/datatable/dataTables.bootstrap4.min.js"></script>
+    <script src="./plugins/tables/js/datatable-init/datatable-basic.min.js"></script>
   <script>
 
 console.log("Hello world!");

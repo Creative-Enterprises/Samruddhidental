@@ -5,6 +5,8 @@
         ***********************************-->
 @section('css')
  <link href="./plugins/tables/css/datatable/dataTables.bootstrap4.min.css" rel="stylesheet">
+     <link href="./plugins/sweet-alert2/sweetalert2.min.css" rel="stylesheet">
+
 @section('css')
         <!--**********************************
             Header start
@@ -36,7 +38,7 @@
                                 <h3 class="card-title text-white">Todays Reamaining</h3>
                                 <div class="d-inline-block">
                                     <h2 class="text-white">10</h2>
-                                    <p class="text-white mb-0">10 - March 2021</p>
+                                    <p class="text-white mb-0"><?php echo date('l, F j, Y'); ?></p>
                                 </div>
                                 <span class="float-right display-5 opacity-5"><i class="fa fa-calender"></i></span>
                             </div></a>
@@ -207,7 +209,7 @@
                                     <p class="text-muted">Patient Age/Gender</p>
                                      <div class="sweetalert m-t-30">
                                                                                 
-                                         <button type="button" class="btn mb-1 btn-success sweet-success">Accept <span class="btn-icon-right"><i class="fa fa-check"></i></span>
+                                         <button type="button" class="btn mb-1 btn-success delete">Accept <span class="btn-icon-right"><i class="fa fa-check"></i></span>
                                     </button>
                                                                        <!--<button type="button" class="btn mb-1 btn-rounded btn-success">Accept</button>-->
                                                                        <!--        <button type="button" class="btn mb-1 btn-rounded btn-danger">Reject</button>-->
@@ -299,167 +301,6 @@
 
                 
                 
-            </div>
-                        <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Wrong</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-danger btn sweet-wrong">Sweet Wrong</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Message</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-info btn sweet-message">Sweet Message</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Text</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-primary btn sweet-text">Sweet Text</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Success</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-success btn sweet-success">Sweet Success</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                </div>
-                <!-- /# row -->
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Confirm</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-warning btn sweet-confirm">Sweet Confirm</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Confirm Or Cancel</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-warning btn sweet-success-cancel">Sweet Confirm Or Cancel</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Image Message</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-info btn sweet-image-message">Sweet Image Message</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet HTML</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-primary btn sweet-html">Sweet HTML</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                </div>
-                <!-- /# row -->
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Auto Close</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-danger btn sweet-auto">Sweet Auto Close</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Prompt</h4>
-                                <div class="card-content">
-                                    <div class="sweetalert m-t-30">
-                                        <button class="btn btn-success btn sweet-prompt">Sweet Prompt</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /# card -->
-                    </div>
-                    <!-- /# column -->
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title">Sweet Ajax</h4>
-                                <div class="card-content"></div>
-                                <div class="sweetalert m-t-15">
-                                    <button class="btn btn-info btn sweet-ajax">Sweet Ajax</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
 
             
@@ -568,9 +409,54 @@
         
     @endsection('content')
     @section('script')
-    <script src="/plugins/tables/js/jquery.dataTables.min.js"></script>
-    <script src="/plugins/tables/js/datatable/dataTables.bootstrap4.min.js"></script>
-    <script src="/plugins/tables/js/datatable-init/datatable-basic.min.js"></script>
+    <script>
+              
+                $(document).ready(function() {
+                jQuery('.delete').click(function (e) {
+                    e.preventDefault();
+                    Swal.fire({
+                        title: 'Are you sure?',
+                        text: "This " + $(this).attr('data-val') + " Deleted Permentanly",
+                        type: 'warning',
+                        showCancelButton: true,
+                        confirmButtonColor: '#3085d6',
+                        cancelButtonColor: '#d33',
+                        confirmButtonText: 'Yes, Delete '+ $(this).attr('rel')
+                    }).then((result) => {
+                        if (result.value) {
+
+                            $.ajax({
+                                type: 'GET',
+                                url: '/deleteGallary/' + $(this).attr('rel'),
+                                headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+                                success: function (res) {
+                                    Swal.fire(
+                                        'Delete!',
+                                        'Gallery is Delete Successfully.',
+                                        'success'
+                                    );
+                                    setTimeout(function () {
+                                        window.location.href = "/addgallary";
+                                    }, 2000);
+
+
+                                }
+                            });
+
+
+                        }
+                    })
+                });
+         
+            });
+                    
+                    
+                  
+ </script>
+            <script src="./plugins/sweet-alert2/sweetalert2.min.js"></script>
+    <script src="./plugins/tables/js/jquery.dataTables.min.js"></script>
+    <script src="./plugins/tables/js/datatable/dataTables.bootstrap4.min.js"></script>
+    <script src="./plugins/tables/js/datatable-init/datatable-basic.min.js"></script>
     @section('script')
 
 

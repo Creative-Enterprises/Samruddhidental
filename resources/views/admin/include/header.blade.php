@@ -9,7 +9,6 @@
     <link href="./plugins/pg-calendar/css/pignose.calendar.min.css" rel="stylesheet">
     <!-- Chartist -->
     <!--<link href="./plugins/sweetalert/css/sweetalert.css" rel="stylesheet">-->
-    <link href="./plugins/sweet-alert2/sweetalert2.min.css" rel="stylesheet">
 
     <!-- Custom Stylesheet -->
     <link href="css/style.css" rel="stylesheet">

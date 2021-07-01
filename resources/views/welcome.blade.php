@@ -387,6 +387,13 @@ Endodontics includes-We deliver painless loser root canal tlt.</p>
             <div class="col-md-4 form-group mt-3">
               <input type="date" name="date" class="form-control datepicker" id="date" placeholder="Appointment Date" required>
             </div>
+             <div class="col-md-4 form-group mt-3">
+              <select name="doctor" id="doctor" class="form-select">
+                <option value="">Select Time</option>
+                <option value="Doctor 1">9 am</option>
+                <option value="Doctor 2">9.20 am</option>
+              </select>
+            </div>
             <div class="col-md-4 form-group mt-3">
               <select name="department" id="department" class="form-select">
                 <option value="">Select Service</option>
@@ -395,13 +402,7 @@ Endodontics includes-We deliver painless loser root canal tlt.</p>
                 <option value="Department 3">Department 3</option>
               </select>
             </div>
-            <div class="col-md-4 form-group mt-3">
-              <select name="doctor" id="doctor" class="form-select">
-                <option value="">Select Doctor</option>
-                <option value="Doctor 1">Dr.Samruddhi</option>
-                <option value="Doctor 2">Dr.Ajay</option>
-              </select>
-            </div>
+           
           </div>
 
           <div class="form-group mt-3">
