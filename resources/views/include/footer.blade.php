@@ -10,7 +10,7 @@
                Savitaraj Appartment Flat No D4 Cannought Garden,Besides Naik College Opposite Mahavir Super Shoppe.<br>
                 Aurangabad, Aurangabad-Maharashtra - 431001<br><br>
                 <strong>Phone:</strong> +91 9405484847<br>
-                <strong>Email:</strong> admin@samruddhidentalclinic.com<br>
+                <strong>Email:</strong> samrudhichaudhary@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
