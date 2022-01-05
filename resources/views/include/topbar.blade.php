@@ -35,7 +35,7 @@
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li> -->
- 
+
               <li><a href="#">cosmetic & laser denstistry</a></li>
               <li><a href="#">Orthodontics (Braces)</a></li>
               <li><a href="#">Oral surgery & implantology</a></li>
@@ -45,7 +45,9 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="/login">Login</a></li>
         </ul>
+
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 

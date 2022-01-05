@@ -24,7 +24,9 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-Route::get('/allappointments', [App\Http\Controllers\HomeController::class, 'allappointments'])->name('appoitments');
+Route::post('/make_appointment', [App\Http\Controllers\HomeController::class, 'make_appointment'])->name('make_appointment');
 Route::get('/allservices', [App\Http\Controllers\HomeController::class, 'allservices'])->name('services');
 Route::get('/allreviews', [App\Http\Controllers\HomeController::class, 'allreviews'])->name('reviews');
 Route::get('/allgalleries', [App\Http\Controllers\HomeController::class, 'allgalleries'])->name('gallery');
+Route::get('/allappointments', [App\Http\Controllers\HomeController::class, 'allappointments'])->name('appoitments');
+

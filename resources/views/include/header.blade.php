@@ -1,6 +1,6 @@
 <head>
   <meta charset="windows-1252">
-  
+
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Samruddhi Dental Skin Hair And Advanced Laser Center Aurangabad,Maharashtra</title>
@@ -45,4 +45,8 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  <style>
+    #more {display: none;}
+    #mor {display: none;}
+    </style>
 </head>

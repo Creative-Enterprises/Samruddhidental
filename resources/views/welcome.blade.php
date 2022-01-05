@@ -17,7 +17,7 @@
                     <div class="form-group">
                         <input type="number" class="form-control" placeholder="Enter Phone Number">
                     </div>
-                    
+
                     <button type="submit" class="btn btn-primary">Book</button>
                 </form>
             </div>
@@ -164,7 +164,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Samruddhi Dental Skin Hair And Advanced Laser Center.</h3>
             <p class="font-italic">
-              Established in the year 2015, Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad, Aurangabad-maharashtra is a top player in the category Dentists in the Aurangabad-maharashtra.  Over the course of its journey, this business has established a firm foothold in itâ€™s industry.  This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base. 
+              Established in the year 2015, Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad, Aurangabad-maharashtra is a top player in the category Dentists in the Aurangabad-maharashtra.  Over the course of its journey, this business has established a firm foothold in itâ€™s industry.  This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base.
             </p>
             <ul>
               <li><i class="bi bi-check-circle"></i> This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Aurangabad-maharashtra.</li>
@@ -172,7 +172,7 @@
               <li><i class="bi bi-check-circle"></i> It is known to provide top service in the following categories: Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors.</li>
             </ul>
             <p>
-             In Aurangabad-maharashtra, this establishment occupies a prominent location in Aurangabad. It is an effortless task in commuting to this establishment as there are various modes of transport readily available. It is at , Besides Naik College Opposite Mahavir Super Shoppe, which makes it easy for first-time visitors in locating this establishment. 
+             In Aurangabad-maharashtra, this establishment occupies a prominent location in Aurangabad. It is an effortless task in commuting to this establishment as there are various modes of transport readily available. It is at , Besides Naik College Opposite Mahavir Super Shoppe, which makes it easy for first-time visitors in locating this establishment.
             </p>
           </div>
         </div>
@@ -275,14 +275,32 @@
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon"><i class="fas fa-tooth"></i></div>
             <h4 class="title"><a href=""> 01 Cosmetic Dentistry & Laser Dentistry</a></h4>
-            <p class="description">Cosmetic Dentistry:- 
+            <p class="description">Cosmetic Dentistry:-
 It involves change in your overall smile to achieve positive attitude for makes you more confident.
-In this procedure we design your smile considering tooth size, shape, colour, position , lip position, colour, gum colour
-Laser Dentistry:- 
+In this procedure we design your smile considering tooth size, shape, colour, position , lip position, colour, gum colour<span id="dots">...</span><span id="more">
+Laser Dentistry:-
 Smile designing ,Veneers, composite, jewds whitening, orthotlt ,Dpigmentation, Botox.
 Its a painless, bloodless procedure. No anesthesia, fast healing ,less surgery time, no post operation medications, invosive procedure.
 Loser tlt includes- Root canal , Depigmentation, of gums, crown lengthening, frenectomy, Apthouswcer, tooth sensitivity, TMJ biostimulation burning mouth syndrome, hemostasis, operculectomy OSMF
-</p>
+</span></p>
+<button onclick="mFunction()" id="myBtn">Read more</button>
+<script>
+    function mFunction() {
+      var dots = document.getElementById("dots");
+      var moreText = document.getElementById("more");
+      var btnText = document.getElementById("myBtn");
+
+      if (dots.style.display === "none") {
+        dots.style.display = "inline";
+        btnText.innerHTML = "Read more";
+        moreText.style.display = "none";
+      } else {
+        dots.style.display = "none";
+        btnText.innerHTML = "Read less";
+        moreText.style.display = "inline";
+      }
+    }
+    </script>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon"><i class="fas fa-pills"></i></div>
@@ -294,12 +312,12 @@ Braces are applied in order to connect crowding, gap in between teeth, Malanged 
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-hospital-user"></i></div>
             <h4 class="title"><a href="">03 Lmplantology & Oral surgery</a></h4>
-            <p class="description">Lmplantology:- 
+            <p class="description">Lmplantology:-
 Dental implants is permanent replacement of one or more missing tooth
 It saves you neighbouring tooth from damage & it looks very natural.
-Oral surgery:- 
+Oral surgery:-
 It includes minor & major surgical procedure like.
-Extraction 
+Extraction
 Disimpaction
 Cancerous & precancerous tlt
 OSMF tlt</p>
@@ -315,25 +333,45 @@ Endodontics includes- We deliver painless loser root canal tlt.</p>
             <h4 class="title"><a href="">05 Prosthodontics</a></h4>
             <p class="description">1 Dental crown & bridge-
 It is nothing but cap or covering on your healthy tooth to restore its size, shape & structure.
-2 Denture 
+2 Denture
 It is replacement of all missing teeth helps to achieve proper speech, esthetic, diet.
 It is removal appliances.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-notes-medical"></i></div>
             <h4 class="title"><a href="">06 Periodontology & Pedodontics</a></h4>
-            <p class="description">Periodontology:- 
+            <p class="description">Periodontology:-
 It deals with your routine teeth cleaning & polishing so as to improve
 Your gum health & reduce problems of bad breathe
-Pedodontics:- 
-It is a separate branch dedicated to kids oral health.
+Pedodontics:-
+It is a separate branch<span id="dot">...</span><span id="mor">  dedicated to   kids oral health.
 TLT includes-
 RCT
 Fluorides
 Habit breaking appliance
 Sealents
 Avanced Dentistry
-OPG</p>
+OPG</span></p>
+<button onclick="myFunction()" id="myBt">Read more</button>
+
+
+<script>
+function myFunction() {
+    var dots = document.getElementById("dot");
+    var moreText = document.getElementById("mor");
+    var btnText = document.getElementById("myBt");
+
+    if (dots.style.display == "none") {
+      dots.style.display = "inline";
+      btnText.innerHTML = "Read more";
+      moreText.style.display = "none";
+    } else {
+      dots.style.display = "none";
+      btnText.innerHTML = "Read less";
+      moreText.style.display = "inline";
+    }
+  }
+  </script>
           </div>
            <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-notes-medical"></i></div>
@@ -357,7 +395,7 @@ Endodontics includes-We deliver painless loser root canal tlt.</p>
           <!--  <p class="description">Periodontics & Paedodontics info</p>-->
           <!--</div>-->
         </div>
-        
+
 
       </div>
     </section><!-- End Services Section -->
@@ -371,7 +409,8 @@ Endodontics includes-We deliver painless loser root canal tlt.</p>
           <p>Fill Below Form For Booking Appointment</p>
         </div>
 
-        <form action="forms/appointment.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
+        <form action="/make_appointment" method="post"  class="php-email-form" data-aos="fade-up" data-aos-delay="100">
+          @csrf
           <div class="row">
             <div class="col-md-4 form-group">
               <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -385,24 +424,24 @@ Endodontics includes-We deliver painless loser root canal tlt.</p>
           </div>
           <div class="row">
             <div class="col-md-4 form-group mt-3">
-              <input type="date" name="date" class="form-control datepicker" id="date" placeholder="Appointment Date" required>
+              <input type="date" name="appointment_date" class="form-control datepicker" id="date" placeholder="Appointment Date" required>
             </div>
              <div class="col-md-4 form-group mt-3">
-              <select name="doctor" id="doctor" class="form-select">
+              <select name="appointment_time" id="doctor" class="form-select">
                 <option value="">Select Time</option>
                 <option value="Doctor 1">9 am</option>
                 <option value="Doctor 2">9.20 am</option>
               </select>
             </div>
             <div class="col-md-4 form-group mt-3">
-              <select name="department" id="department" class="form-select">
+              <select name="services" id="department" class="form-select">
                 <option value="">Select Service</option>
                 <option value="Department 1">Department 1</option>
                 <option value="Department 2">Department 2</option>
                 <option value="Department 3">Department 3</option>
               </select>
             </div>
-           
+
           </div>
 
           <div class="form-group mt-3">
@@ -431,7 +470,7 @@ Medicine
 Diabetology
 
 
- 
+
 
 </p>
         </div>
@@ -442,19 +481,19 @@ Diabetology
               <li class="nav-item">
                 <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
                   <h4>Cardiology</h4>
-                  <p>Dr.Prashant Udgire.</p>
+                  <p>Dr.Prashant Udgire</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
                   <h4>Gynecology</h4>
-                  <p>Dr.KunalJadhav.</p>
+                  <p>Dr. Kunal Jadhav.</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
                   <h4>Medicine</h4>
-                  <p>Dr. Prashant Chaudary.</p>
+                  <p>Dr. Prashant Chaudary</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
@@ -539,7 +578,7 @@ Diabetology
 
            <!-- End testimonial item -->
 
-          
+
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
@@ -643,7 +682,7 @@ Diabetology
               </div>
             </div><!-- End testimonial item -->
 
-           
+
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -665,7 +704,7 @@ Diabetology
           <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-11.jpg" class="img-fluid" alt="">
+                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -674,20 +713,20 @@ Diabetology
                 </div>
               </div>
               <div class="member-info">
-                <h4>Dr.SamrudhiChaudaryShinde</h4>
+                <h4>Dr. Samrudhi Chaudhary Shinde</h4>
                 <span>Chief Medical Officer</span>
               </div>
             </div>
           </div>
 
 
- 
+
 
 
           <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-22.jpg" class="img-fluid" alt="">
+                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -696,7 +735,7 @@ Diabetology
                 </div>
               </div>
               <div class="member-info">
-                <h4>Dr.Ajay Anil Shinde</h4>
+                <h4>Dr. Ajay Anil Shinde</h4>
                 <span>Anesthesiologist</span>
               </div>
             </div>
@@ -705,7 +744,7 @@ Diabetology
            <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-33.jpg" class="img-fluid" alt="">
+                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -714,7 +753,7 @@ Diabetology
                 </div>
               </div>
               <div class="member-info">
-                <h4>Dr.Akshay Pathak</h4>
+                <h4>Dr. Akshay Pathak</h4>
                 <span>Cardiology</span>
               </div>
             </div>
@@ -723,7 +762,7 @@ Diabetology
           <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-44.jpg" class="img-fluid" alt="">
+                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -732,7 +771,7 @@ Diabetology
                 </div>
               </div>
               <div class="member-info">
-                <h4>Dr.Pawan Raktade</h4>
+                <h4>Dr. Pawan Raktade</h4>
                 <span>Neurosurgeon</span>
               </div>
             </div>
@@ -740,7 +779,7 @@ Diabetology
            <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-44.jpg" class="img-fluid" alt="">
+                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -749,7 +788,7 @@ Diabetology
                 </div>
               </div>
               <div class="member-info">
-                <h4>Dr.Vishakha Raktade</h4>
+                <h4>Dr. Vishakha Raktade</h4>
                 <span>Neurosurgeon</span>
               </div>
             </div>
@@ -757,7 +796,7 @@ Diabetology
   <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
-                <img src="assets/img/doctors/doctors-44.jpg" class="img-fluid" alt="">
+                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -766,12 +805,12 @@ Diabetology
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
+                <h4>Dr. Amanda Jepson</h4>
                 <span>Neurosurgeon</span>
               </div>
             </div>
           </div>
- 
+
         </div>
 
       </div>
@@ -816,7 +855,7 @@ Diabetology
 
           <div class="col-lg-4 col-md-6">
             <div class="box" data-aos="fade-up" data-aos-delay="100">
-             
+
               <h4></h4>
            <p>dfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsddfdsfdfdsdgsdfggsdgddsgsdgsdgdgssdgsd</p>
               <div class="btn-wrap">
@@ -859,12 +898,12 @@ Diabetology
             </div>
           </div>
 
-         
+
         </div>
 
       </div>
     </section> --><!-- End Pricing Section -->
- 
+
 
     <!-- ======= Frequently Asked Questioins Section ======= -->
     <section id="faq" class="faq section-bg">
@@ -912,11 +951,11 @@ Diabetology
 <li>Saturday:- Open 24 Hrs</li>
 <li>Sunday:- Open 24 Hrs</li>
 </ul>
-            
+
             </div>
           </li>
 
- 
+
 
         </ul>
 
@@ -936,7 +975,7 @@ Diabetology
 
       <div>
         <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d962768.6234850703!2d75.31545898366619!3d19.50659632635501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdba2c07f5c5937%3A0x78f1566997e9c086!2sSamruddhi%20Dental%20skin%20hair%20and%20advanced%20laser%20center!5e0!3m2!1sen!2sin!4v1616702152458!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" frameborder="0" ></iframe>
-      
+
       </div>
 
       <div class="container">
