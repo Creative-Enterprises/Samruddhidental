@@ -6,7 +6,7 @@
         <i class="bi bi-clock"></i> Monday - Saturday,Open 24 Hrs.
       </div>
       <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us now +91 07947366606
+        <i class="bi bi-phone"></i> Call us now +91 9405484847
       </div>
     </div>
   </div>
@@ -24,26 +24,67 @@
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#departments">Emergency Services</a></li>
           <li><a class="nav-link scrollto" href="#doctors">Doctors</a></li>
+
           <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-             <!--  <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+              <li class="dropdown"><a href="#"><span>
+                Advance Dentistry
+                </span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="#">Cosmetic & Laser Denstistry</a></li>
+                  <li><a href="#">Orthodontics (Braces)</a></li>
+                  <li><a href="#">Oral Surgery & Implantology</a></li>
+                  <li><a href="#">Endodontics (Root Canal Treatment)</a></li>
+                  <li><a href="#">Prosthodontics (Crown & Bridges)</a></li>
+                  <li><a href="#">Periodontics & Paedodontics</a></li>
                 </ul>
-              </li> -->
+              </li>
 
-              <li><a href="#">Cosmetic & Laser Denstistry</a></li>
-              <li><a href="#">Orthodontics (Braces)</a></li>
-              <li><a href="#">Oral Surgery & Implantology</a></li>
-              <li><a href="#">Endodontics ( Root Canal Treatment)</a></li>
-               <li><a href="#">Prosthodontics ( Crown & Bridges )</a></li>
-              <li><a href="#">Periodontics & Paedodontics</a></li>
+              <li class="dropdown"><a href="#"><span>
+                Cosmetology
+                </span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Cosmetic & Laser Denstistry</a></li>
+                  <li><a href="#">Orthodontics (Braces)</a></li>
+                  <li><a href="#">Oral Surgery & Implantology</a></li>
+                  <li><a href="#">Endodontics (Root Canal Treatment)</a></li>
+                  <li><a href="#">Prosthodontics (Crown & Bridges)</a></li>
+                  <li><a href="#">Periodontics & Paedodontics</a></li>
+                </ul>
+              </li>
+
+              <li class="dropdown"><a href="#"><span>
+                Trichology
+                </span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Cosmetic & Laser Denstistry</a></li>
+                  <li><a href="#">Orthodontics (Braces)</a></li>
+                  <li><a href="#">Oral Surgery & Implantology</a></li>
+                  <li><a href="#">Endodontics (Root Canal Treatment)</a></li>
+                  <li><a href="#">Prosthodontics (Crown & Bridges)</a></li>
+                  <li><a href="#">Periodontics & Paedodontics</a></li>
+                </ul>
+              </li>
+
+              <li class="dropdown"><a href="#"><span>
+                Radiology
+                </span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Cosmetic & Laser Denstistry</a></li>
+                  <li><a href="#">Orthodontics (Braces)</a></li>
+                  <li><a href="#">Oral Surgery & Implantology</a></li>
+                  <li><a href="#">Endodontics (Root Canal Treatment)</a></li>
+                  <li><a href="#">Prosthodontics (Crown & Bridges)</a></li>
+                  <li><a href="#">Periodontics & Paedodontics</a></li>
+                </ul>
+              </li>
+
             </ul>
           </li>
+
+
+
+
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="nav-link scrollto" href="/login">Login</a></li>
         </ul>

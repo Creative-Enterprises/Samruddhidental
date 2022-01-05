@@ -283,7 +283,7 @@ Smile designing ,Veneers, composite, jewds whitening, orthotlt ,Dpigmentation, B
 Its a painless, bloodless procedure. No anesthesia, fast healing ,less surgery time, no post operation medications, invosive procedure.
 Loser tlt includes- Root canal , Depigmentation, of gums, crown lengthening, frenectomy, Apthouswcer, tooth sensitivity, TMJ biostimulation burning mouth syndrome, hemostasis, operculectomy OSMF
 </span></p>
-<button onclick="mFunction()" id="myBtn">Read more</button>
+<a style="color: #87CEEB" id="myBtn" onclick="mFunction()" class="btn-get-started scrollto">Read More</a>
 <script>
     function mFunction() {
       var dots = document.getElementById("dots");
@@ -352,7 +352,8 @@ Habit breaking appliance
 Sealents
 Avanced Dentistry
 OPG</span></p>
-<button onclick="myFunction()" id="myBt">Read more</button>
+<a style="color: #87CEEB" id="myBt" onclick="myFunction()" class="btn-get-started scrollto">Read More</a>
+
 
 
 <script>
@@ -692,119 +693,97 @@ Diabetology
           <p>Higly Educated and Experienced Doctors </p>
         </div>
 
-        <div class="row">
+        <div class="row justify-content-md-center">
 
-          <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+            {{-- <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
+
+            </div> --}}
+
+
+            <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                  <div class="member-img">
+                    <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="bi bi-twitter"></i></a>
+                      <a href=""><i class="bi bi-facebook"></i></a>
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4>Dr. Samrudhi Chaudhary Shinde</h4>
+                    <span>Dentist, Cosmetologist, Oral Radiologis</span>
+                  </div>
                 </div>
               </div>
-              <div class="member-info">
-                <h4>Dr. Samrudhi Chaudhary Shinde</h4>
-                <span>Dentist, Cosmetologist, Oral Radiologist</span>
-              </div>
-            </div>
-          </div>
 
 
 
-
-
-          <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+            <div class="col col-lg-2 d-flex align-items-stretch">
+              <div class="member" data-aos="fade-up" data-aos-delay="200">
+                <div class="member-img">
+                  <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Dr. Ajay Anil Shinde
+                    </h4>
+                  <span>Cosmetologist</span>
                 </div>
               </div>
-              <div class="member-info">
-                <h4>Dr. Ajay Anil Shinde</h4>
-                <span>Cosmetologist</span>
-              </div>
             </div>
-          </div>
 
-           <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+             <div class="col col-lg-2 d-flex align-items-stretch">
+              <div class="member" data-aos="fade-up" data-aos-delay="300">
+                <div class="member-img">
+                  <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Dr. Akshay Pathak
+                    </h4>
+                  <span>Oral Surgeon</span>
                 </div>
               </div>
-              <div class="member-info">
-                <h4>Dr. Akshay Pathak</h4>
-                <span>Oral Surgron</span>
-              </div>
             </div>
-          </div>
 
-          <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+            <div class="col col-lg-2 d-flex align-items-stretch">
+              <div class="member" data-aos="fade-up" data-aos-delay="400">
+                <div class="member-img">
+                  <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Dr. Pawan Raktade
+                     </h4>
+                  <span>Endodontist</span>
                 </div>
               </div>
-              <div class="member-info">
-                <h4>Dr. Pawan Raktade</h4>
-                <span>Edodontist</span>
-              </div>
             </div>
-          </div>
-           <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr. Vishakha Raktade</h4>
-                <span></span>
-              </div>
-            </div>
-          </div>
-  <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Dr. Kunal Jadhav</h4>
-                <span>Gynaecologist</span>
-              </div>
-            </div>
-          </div>
+             {{-- <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
 
-        </div>
+            </div>
+    <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
+
+            </div> --}}
+
+          </div>
 
 
 
@@ -815,6 +794,23 @@ Diabetology
             </div> --}}
 
 
+            <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                  <div class="member-img">
+                    <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="bi bi-twitter"></i></a>
+                      <a href=""><i class="bi bi-facebook"></i></a>
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4>Dr. Kunal Jadhav</h4>
+                    <span>Gynaecologist</span>
+                  </div>
+                </div>
+              </div>
 
 
 
@@ -879,8 +875,6 @@ Diabetology
             </div> --}}
 
           </div>
-
-
 
         </div>
     </section><!-- End Doctors Section -->
@@ -1067,7 +1061,7 @@ Diabetology
                 <div class="info-box mt-4">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>samrudhichaudhary@gmail.com<br>admin@samruddhidentalclinic.com<br>contact@samruddhidental.com</p>
+                  <p>samrudhichaudhary@gmail.com</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -1075,7 +1069,7 @@ Diabetology
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
 
-                  <p>+91 9765799994<br> +91 9405484847 <br>+91 07947366606<br> +91 07947366606 <br>+91 9405484847<br>+91 9823499994<br></p>
+                  <p>+91 9405484847<br>+91 9823499994<br></p>
                 </div>
               </div>
             </div>
