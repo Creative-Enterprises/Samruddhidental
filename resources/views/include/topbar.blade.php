@@ -36,11 +36,11 @@
                 </ul>
               </li> -->
 
-              <li><a href="#">cosmetic & laser denstistry</a></li>
+              <li><a href="#">Cosmetic & Laser Denstistry</a></li>
               <li><a href="#">Orthodontics (Braces)</a></li>
-              <li><a href="#">Oral surgery & implantology</a></li>
-              <li><a href="#">Endodontics ( Root canal treatment)</a></li>
-               <li><a href="#">Prosthodontics ( crown & bridges )</a></li>
+              <li><a href="#">Oral Surgery & Implantology</a></li>
+              <li><a href="#">Endodontics ( Root Canal Treatment)</a></li>
+               <li><a href="#">Prosthodontics ( Crown & Bridges )</a></li>
               <li><a href="#">Periodontics & Paedodontics</a></li>
             </ul>
           </li>

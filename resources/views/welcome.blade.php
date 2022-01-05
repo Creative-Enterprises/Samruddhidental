@@ -2,7 +2,7 @@
 
 @extends('master')
 @section('topbar')
-<div id="myModal" class="modal fade">
+{{-- <div id="myModal" class="modal fade">
     <div class="modal-dialog col-lg-6">
         <div class="modal-content">
             <div class="modal-header">
@@ -23,7 +23,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> --}}
   <!-- ======= Top Bar ======= -->
   <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
@@ -31,7 +31,7 @@
         <i class="bi bi-clock"></i> Monday - Saturday,Open 24 Hrs.
       </div>
       <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us now +91 07947366606
+        <i class="bi bi-phone"></i> Call us now +91 9405484847
       </div>
     </div>
   </div>
@@ -274,7 +274,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon"><i class="fas fa-tooth"></i></div>
-            <h4 class="title"><a href=""> 01 Cosmetic Dentistry & Laser Dentistry</a></h4>
+            <h4 class="title"><a href=""> Cosmetic Dentistry & Laser Dentistry</a></h4>
             <p class="description">Cosmetic Dentistry:-
 It involves change in your overall smile to achieve positive attitude for makes you more confident.
 In this procedure we design your smile considering tooth size, shape, colour, position , lip position, colour, gum colour<span id="dots">...</span><span id="more">
@@ -304,14 +304,14 @@ Loser tlt includes- Root canal , Depigmentation, of gums, crown lengthening, fre
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon"><i class="fas fa-pills"></i></div>
-            <h4 class="title"><a href=""> 02 Orthodontics</a></h4>
+            <h4 class="title"><a href="">  Orthodontics</a></h4>
             <p class="description">Orthodontics treatment is nothing but braces placement.
 Braces are applied in order to connect crowding, gap in between teeth, Malanged teeth & strengthen them with the help of moral or ceramic brakets according to requirement of the patient.
 </p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-hospital-user"></i></div>
-            <h4 class="title"><a href="">03 Lmplantology & Oral surgery</a></h4>
+            <h4 class="title"><a href=""> Lmplantology & Oral surgery</a></h4>
             <p class="description">Lmplantology:-
 Dental implants is permanent replacement of one or more missing tooth
 It saves you neighbouring tooth from damage & it looks very natural.
@@ -324,13 +324,13 @@ OSMF tlt</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon"><i class="fas fa-dna"></i></div>
-            <h4 class="title"><a href="">04 Conservative & Endodontics</a></h4>
+            <h4 class="title"><a href=""> Conservative & Endodontics</a></h4>
             <p class="description">Conservative includes-  Tooth filling it may be Amalgum (silver), cement or composite in order to save tooth from further decay.
 Endodontics includes- We deliver painless loser root canal tlt.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon"><i class="fas fa-wheelchair"></i></div>
-            <h4 class="title"><a href="">05 Prosthodontics</a></h4>
+            <h4 class="title"><a href=""> Prosthodontics</a></h4>
             <p class="description">1 Dental crown & bridge-
 It is nothing but cap or covering on your healthy tooth to restore its size, shape & structure.
 2 Denture
@@ -339,7 +339,7 @@ It is removal appliances.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-notes-medical"></i></div>
-            <h4 class="title"><a href="">06 Periodontology & Pedodontics</a></h4>
+            <h4 class="title"><a href=""> Periodontology & Pedodontics</a></h4>
             <p class="description">Periodontology:-
 It deals with your routine teeth cleaning & polishing so as to improve
 Your gum health & reduce problems of bad breathe
@@ -375,7 +375,7 @@ function myFunction() {
           </div>
            <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-notes-medical"></i></div>
-            <h4 class="title"><a href="">11.  Conservative & Endodontics </a></h4>
+            <h4 class="title"><a href="">  Conservative & Endodontics </a></h4>
             <p class="description">Conservative includes- Tooth filling it may be Amalgum (silver), cement or composite in order to save tooth from further decay.
 Endodontics includes-We deliver painless loser root canal tlt.</p>
           </div>
@@ -407,6 +407,7 @@ Endodontics includes-We deliver painless loser root canal tlt.</p>
         <div class="section-title">
           <h2>Make an Appointment</h2>
           <p>Fill Below Form For Booking Appointment</p>
+          <h3>Monday To Friday : 11am to 03pm & 05pm to 09pm || For Saturday : 11am to 03pm</h3>
         </div>
 
         <form action="/make_appointment" method="post"  class="php-email-form" data-aos="fade-up" data-aos-delay="100">
@@ -487,19 +488,13 @@ Diabetology
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
                   <h4>Gynecology</h4>
-                  <p>Dr. Kunal Jadhav.</p>
-                </a>
-              </li>
-              <li class="nav-item mt-2">
-                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
-                  <h4>Medicine</h4>
-                  <p>Dr. Prashant Chaudary</p>
+                  <p>Dr. Kunal Jadhav</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
                   <h4>Diabetology</h4>
-                  <p>Dr. Prashant Chaudary</p>
+                  <p>Dr. Prashant Chaudhary</p>
                 </a>
               </li>
             </ul>
@@ -518,12 +513,7 @@ Diabetology
                 <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
                 <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
               </div>
-              <div class="tab-pane" id="tab-3">
-                <h3>Medicine</h3>
-                <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                <img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
-                <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
-              </div>
+
               <div class="tab-pane" id="tab-4">
                 <h3>Diabetology</h3>
                 <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
@@ -714,7 +704,7 @@ Diabetology
               </div>
               <div class="member-info">
                 <h4>Dr. Samrudhi Chaudhary Shinde</h4>
-                <span>Chief Medical Officer</span>
+                <span>Dentist, Cosmetologist, Oral Radiologist</span>
               </div>
             </div>
           </div>
@@ -736,7 +726,7 @@ Diabetology
               </div>
               <div class="member-info">
                 <h4>Dr. Ajay Anil Shinde</h4>
-                <span>Anesthesiologist</span>
+                <span>Cosmetologist</span>
               </div>
             </div>
           </div>
@@ -754,7 +744,7 @@ Diabetology
               </div>
               <div class="member-info">
                 <h4>Dr. Akshay Pathak</h4>
-                <span>Cardiology</span>
+                <span>Oral Surgron</span>
               </div>
             </div>
           </div>
@@ -772,7 +762,7 @@ Diabetology
               </div>
               <div class="member-info">
                 <h4>Dr. Pawan Raktade</h4>
-                <span>Neurosurgeon</span>
+                <span>Edodontist</span>
               </div>
             </div>
           </div>
@@ -789,7 +779,7 @@ Diabetology
               </div>
               <div class="member-info">
                 <h4>Dr. Vishakha Raktade</h4>
-                <span>Neurosurgeon</span>
+                <span></span>
               </div>
             </div>
           </div>
@@ -805,8 +795,8 @@ Diabetology
                 </div>
               </div>
               <div class="member-info">
-                <h4>Dr. Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
+                <h4>Dr. Kunal Jadhav</h4>
+                <span>Gynaecologist</span>
               </div>
             </div>
           </div>
@@ -1006,7 +996,7 @@ Diabetology
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
 
-                  <p>+91 9765799994<br> +91 9405484847 <br>+91 07947366606<br> +91 07947366606</p>
+                  <p>+91 9765799994<br> +91 9405484847 <br>+91 07947366606<br> +91 07947366606 <br>+91 9405484847<br>+91 9823499994<br></p>
                 </div>
               </div>
             </div>

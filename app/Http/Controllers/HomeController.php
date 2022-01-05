@@ -12,10 +12,10 @@ class HomeController extends Controller
      *
      * @return void
      */
-    public function __construct()
-    {
-        $this->middleware('auth');
-    }
+    // public function __construct()
+    // {
+    //     $this->middleware('auth');
+    // }
 
     /**
      * Show the application dashboard.
@@ -36,14 +36,14 @@ class HomeController extends Controller
     public function make_appointment(Request $request){
         $apt =new Appointment();
         $apt->name = $request->name;
-        $apt->phone_no = $request->phone_no;
+        $apt->phone = $request->phone;
         $apt->email = $request->email;
         $apt->appointment_date = $request->appointment_date;
         $apt->appointment_time = $request->appointment_time;
         $apt->services = $request->services;
         $apt->message = $request->message;
         $apt->save();
-        return redirect()->back();
+
 
     }
 
