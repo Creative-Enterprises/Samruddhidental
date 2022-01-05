@@ -9,7 +9,7 @@
               <p>Samruddhi Dental Specialist Skin Hair And Advanced Laser Center in Aurangabad-maharashtra is one of the leading Hospital in the Dentists. Also known for Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors and much more. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Samruddhi Dental Skin Hair And Advanced Laser Center, Aurangabad-maharashtra.</p> <strong>Address:</strong><p>
                Savitaraj Appartment Flat No D4 Cannought Garden,Besides Naik College Opposite Mahavir Super Shoppe.<br>
                 Aurangabad, Aurangabad-Maharashtra - 431001<br><br>
-                <strong>Phone:</strong> +91 07947366606<br>
+                <strong>Phone:</strong> +91 9405484847<br>
                 <strong>Email:</strong> admin@samruddhidentalclinic.com<br>
               </p>
               <div class="social-links mt-3">
@@ -36,7 +36,7 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-                  
+
               <li><i class="bx bx-chevron-right"></i> <a href="#"> Best Dentists In Aurangabad</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Best Dentists In Maharashtra</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Best Dental Clinics in Aurangabad</a></li>
@@ -61,7 +61,7 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-                  
+
     <li><i class="bx bx-chevron-right"></i> <a href="#">cosmetic & laser denstistry</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Orthodontics (Braces)</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Oral surgery & implantology</a></li>
@@ -70,7 +70,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Periodontics & Paedodontics</a></li>
             </ul>
           </div>
-           
+
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
             <p>Get Updates About Our News & Services</p>
