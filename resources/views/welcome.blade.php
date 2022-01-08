@@ -374,12 +374,7 @@ function myFunction() {
   }
   </script>
           </div>
-           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon"><i class="fas fa-notes-medical"></i></div>
-            <h4 class="title"><a href="">  Conservative & Endodontics </a></h4>
-            <p class="description">Conservative includes- Tooth filling it may be Amalgum (silver), cement or composite in order to save tooth from further decay.
-Endodontics includes-We deliver painless loser root canal tlt.</p>
-          </div>
+
           <!-- <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">-->
           <!--  <div class="icon"><i class="fas fa-notes-medical"></i></div>-->
           <!--  <h4 class="title"><a href=""> Endodontics ( Root canal treatment)</a></h4>-->
@@ -408,7 +403,7 @@ Endodontics includes-We deliver painless loser root canal tlt.</p>
         <div class="section-title">
           <h2>Make an Appointment</h2>
           <p>Fill Below Form For Booking Appointment</p>
-          <h3>Monday To Friday : 11am to 03pm & 05pm to 09pm || For Saturday : 11am to 03pm</h3>
+          <h3>Monday To Saturday : 11am to 03pm & 05pm to 09pm || For Sunday : 11am to 03pm</h3>
         </div>
 
         <form action="/make_appointment" method="post"  class="php-email-form" data-aos="fade-up" data-aos-delay="100">

@@ -44,12 +44,13 @@
                 Cosmetology
                 </span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Cosmetic & Laser Denstistry</a></li>
-                  <li><a href="#">Orthodontics (Braces)</a></li>
-                  <li><a href="#">Oral Surgery & Implantology</a></li>
-                  <li><a href="#">Endodontics (Root Canal Treatment)</a></li>
-                  <li><a href="#">Prosthodontics (Crown & Bridges)</a></li>
-                  <li><a href="#">Periodontics & Paedodontics</a></li>
+                  <li><a href="#">Acne</a></li>
+                  <li><a href="#">Pigmentation</a></li>
+                  <li><a href="#">Antiaging</a></li>
+                  <li><a href="#">Tattooing </a></li>
+                  <li><a href="#">Skin Tags</a></li>
+                  <li><a href="#">Piercing</a></li>
+                  <li><a href="#">Laser Hair Removal</a></li>
                 </ul>
               </li>
 
