@@ -164,8 +164,10 @@
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Samruddhi Dental Skin Hair And Advanced Laser Center.</h3>
             <p class="font-italic">
-              Established in the year 2015, Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad, Aurangabad-maharashtra is a top player in the category Dentists in the Aurangabad-maharashtra.  Over the course of its journey, this business has established a firm foothold in itâ€™s industry.  This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base.
+                The Samruddhi Dental , Skin, Hair and Advanced Laser Center offers comprehensive dental care including Oral Medicine & Radiology, Orthodontics, Oral surgery, Periodontics, Prosthodontics, Endodontics, Paedodontics & Laser dentistry services to both adults and children. The team of experienced Consultants, Specialists, trained staffs and Technicians adopts a multi-disciplinary approach to provide personalised, high quality dental care based international treatment protocols with high end technology equipment’s.
             </p>
+            <p class="font-italic"> We have some of the best specialists they bring years of experience and offer evidence based treatment to ensure the best care for you.</p>
+            <p class="font-italic">The spectrum of services offered includes accurate diagnosis and surgical / non-surgical management of conditions like Dental Implants and Oral & Maxillofacial Surgical Procedures like Management Of Cyst and Tumours, Impacted Teeth, Preprosthetic Surgery and Endodontic Surgery.</p>
             <ul>
               <li><i class="bi bi-check-circle"></i> This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Aurangabad-maharashtra.</li>
               <li><i class="bi bi-check-circle"></i> The belief that customer satisfaction is as important as their products and services, have helped this establishment garner a vast base of customers, which continues to grow by the day.</li>
@@ -792,7 +794,7 @@ Diabetology
             <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="400">
                   <div class="member-img">
-                    <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/doctors/kunal.jpeg" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -812,7 +814,7 @@ Diabetology
             <div class="col col-lg-2 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="200">
                 <div class="member-img">
-                  <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
+                  <img src="assets/img/doctors/prashant.jpeg" class="img-fluid" alt="">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
