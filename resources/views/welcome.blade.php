@@ -154,20 +154,24 @@
 
         <div class="section-title">
           <h2>About Us</h2>
-          <p>Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad-maharashtra is one of the leading businesses in the Dentists. Also known for Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors and much more. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Samruddhi Dental Skin Hair And Advanced Laser Center, Aurangabad-maharashtra.</p>
+          <p>
+            The Samruddhi Dental , Skin, Hair and Advanced Laser Center offers comprehensive dental care including Oral Medicine & Radiology, Orthodontics, Oral surgery, Periodontics, Prosthodontics, Endodontics, Paedodontics & Laser dentistry services to both adults and children. The team of experienced Consultants, Specialists, trained staffs and Technicians adopts a multi-disciplinary approach to provide personalised, high quality dental care based international treatment protocols with high end technology equipment’s. 
+            <p>...</p>
+            The spectrum of services offered includes accurate diagnosis and surgical / non-surgical management of conditions like Dental Implants and Oral & Maxillofacial Surgical Procedures like Management Of Cyst and Tumours, Impacted Teeth, Preprosthetic Surgery and Endodontic Surgery.
+            <p>...</p>
+            We have some of the best specialists they bring years of experience and offer evidence based treatment to ensure the best care for you.
+          </p>
         </div>
 
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
             <img src="assets/img/banner.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Samruddhi Dental Skin Hair And Advanced Laser Center.</h3>
             <p class="font-italic">
-                The Samruddhi Dental , Skin, Hair and Advanced Laser Center offers comprehensive dental care including Oral Medicine & Radiology, Orthodontics, Oral surgery, Periodontics, Prosthodontics, Endodontics, Paedodontics & Laser dentistry services to both adults and children. The team of experienced Consultants, Specialists, trained staffs and Technicians adopts a multi-disciplinary approach to provide personalised, high quality dental care based international treatment protocols with high end technology equipment’s.
+              Established in the year 2015, Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad, Aurangabad-maharashtra is a top player in the category Dentists in the Aurangabad-maharashtra.  Over the course of its journey, this business has established a firm foothold in itâ€™s industry.  This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base.
             </p>
-            <p class="font-italic"> We have some of the best specialists they bring years of experience and offer evidence based treatment to ensure the best care for you.</p>
-            <p class="font-italic">The spectrum of services offered includes accurate diagnosis and surgical / non-surgical management of conditions like Dental Implants and Oral & Maxillofacial Surgical Procedures like Management Of Cyst and Tumours, Impacted Teeth, Preprosthetic Surgery and Endodontic Surgery.</p>
             <ul>
               <li><i class="bi bi-check-circle"></i> This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Aurangabad-maharashtra.</li>
               <li><i class="bi bi-check-circle"></i> The belief that customer satisfaction is as important as their products and services, have helped this establishment garner a vast base of customers, which continues to grow by the day.</li>
@@ -177,7 +181,7 @@
              In Aurangabad-maharashtra, this establishment occupies a prominent location in Aurangabad. It is an effortless task in commuting to this establishment as there are various modes of transport readily available. It is at , Besides Naik College Opposite Mahavir Super Shoppe, which makes it easy for first-time visitors in locating this establishment.
             </p>
           </div>
-        </div>
+        </div> -->
 
       </div>
     </section><!-- End About Us Section -->
@@ -276,7 +280,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon"><i class="fas fa-tooth"></i></div>
-            <h4 class="title"><a href=""> Cosmetic Dentistry & Laser Dentistry</a></h4>
+            <h4 class="title"><a href="">Cosmetic Dentistry & Laser Dentistry</a></h4>
             <p class="description">Cosmetic Dentistry:-
 It involves change in your overall smile to achieve positive attitude for makes you more confident.
 In this procedure we design your smile considering tooth size, shape, colour, position , lip position, colour, gum colour<span id="dots">...</span><span id="more">
@@ -306,14 +310,14 @@ Loser tlt includes- Root canal , Depigmentation, of gums, crown lengthening, fre
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon"><i class="fas fa-pills"></i></div>
-            <h4 class="title"><a href="">  Orthodontics</a></h4>
+            <h4 class="title"><a href="">Orthodontics</a></h4>
             <p class="description">Orthodontics treatment is nothing but braces placement.
 Braces are applied in order to connect crowding, gap in between teeth, Malanged teeth & strengthen them with the help of moral or ceramic brakets according to requirement of the patient.
 </p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-hospital-user"></i></div>
-            <h4 class="title"><a href=""> Lmplantology & Oral surgery</a></h4>
+            <h4 class="title"><a href="">Lmplantology & Oral surgery</a></h4>
             <p class="description">Lmplantology:-
 Dental implants is permanent replacement of one or more missing tooth
 It saves you neighbouring tooth from damage & it looks very natural.
@@ -326,13 +330,13 @@ OSMF tlt</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon"><i class="fas fa-dna"></i></div>
-            <h4 class="title"><a href=""> Conservative & Endodontics</a></h4>
+            <h4 class="title"><a href="">Conservative & Endodontics</a></h4>
             <p class="description">Conservative includes-  Tooth filling it may be Amalgum (silver), cement or composite in order to save tooth from further decay.
 Endodontics includes- We deliver painless loser root canal tlt.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon"><i class="fas fa-wheelchair"></i></div>
-            <h4 class="title"><a href=""> Prosthodontics</a></h4>
+            <h4 class="title"><a href="">Prosthodontics</a></h4>
             <p class="description">1 Dental crown & bridge-
 It is nothing but cap or covering on your healthy tooth to restore its size, shape & structure.
 2 Denture
@@ -341,7 +345,7 @@ It is removal appliances.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-notes-medical"></i></div>
-            <h4 class="title"><a href=""> Periodontology & Pedodontics</a></h4>
+            <h4 class="title"><a href="">Periodontology & Pedodontics</a></h4>
             <p class="description">Periodontology:-
 It deals with your routine teeth cleaning & polishing so as to improve
 Your gum health & reduce problems of bad breathe
@@ -457,6 +461,8 @@ function myFunction() {
       </div>
     </section><!-- End Appointment Section -->
 
+
+
     <!-- ======= Departments Section ======= -->
     <section id="departments" class="departments">
       <div class="container" data-aos="fade-up">
@@ -504,22 +510,72 @@ Diabetology
             <div class="tab-content">
               <div class="tab-pane active show" id="tab-1">
                 <h3>Cardiology</h3>
-                <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
                 <img src="assets/img/demo.jpg" alt="" class="img-fluid">
-                <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+                <p><strong>Why would cardiovascular disease and poor oral health be connected?
+A number of theories have been proposed, including:</strong></p>
+                <p>The bacteria that infect the gums and cause gingivitis and periodontitis also travel to blood vessels elsewhere in the body where they cause blood vessel inflammation and damage; tiny blood clots, heart attack and stroke may follow. Supporting this idea is the finding of remnants of oral bacteria within atherosclerotic blood vessels far from the mouth. Then again, antibiotic treatment has not proven effective at reducing cardiovascular risk.
+                Rather than bacteria causing the problem, it's the body's immune response – inflammation - that sets off a cascade of vascular damage throughout the body, including the heart and brain.
+                </p>
               </div>
               <div class="tab-pane" id="tab-2">
                 <h3>Gynecology</h3>
-                <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
+                <p class="font-italic"></p>
                 <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
-                <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+                <p>
+                  <li><string>Oral care in pregnancy</strong></li>
+
+                  Pregnant women are susceptible to a wide range of oral health conditions that could be harmful to their own health and the future of their baby. There are many myths about the safety of dental care during pregnancy. As a result, pregnant women receive less dental care than when they are not pregnant.
+                  
+                  <li><string>Changes seen in the gums</strong></li>
+
+                  Pregnant women undergo hormonal balance changes during pregnancy. Many tissues undergo certain changes because the placenta produces higher levels of estrogen and progesterone during pregnancy. In this period, excessive sensitivity to irritations occurs in the gingiva. In pregnancy, gingivitis or epulis gravidarum commonly known as pregnancy tumors, can be seen very often. Pregnancy gingivitis usually starts at the second month of gestation and reaches the highest level at the eighth month, and heals spontaneously after birth.
+                  Changes that occur in the teeth
+                  It is generally known that tooth decay increases during pregnancy. The teeth are painful and tooth losses can be seen.
+                  <span id="dot" style="display: none;">...</span>
+                  <span id="mor" style="display: none;">
+
+                    <li><string>Daily oral and dental care should be continued non-stop.</strong></li>
+
+                    <li><string>A full oral examination must be done before gestation to achieve optimal oral hygiene and gain the habit of maintaining it because there is a direct relationship between hormonal changes during pregnancy and plaque accumulation and gingival diseases. The hormone increase during pregnancy makes the mouth mucosa more sensitive to external factors, especially against bacterial plaques.</strong></li>
+                    <li><string>Effective dental care should be obtained by using toothbrushes and dental floss at least twice a day.</strong></li>
+                    <li><string>Gargling with mouthwashes or warm salty water must be performed. Warm salty water relaxes gums and reduces gum sensitivity.</strong></li>
+                    Treatments that can be performed during pregnancy
+                    However, most procedures to be performed in dentistry are important in the first three months and the last three months, in terms of the stresses to which the mother and the baby will be exposed. Effective dental treatment in the first trimester should be avoided. This period is a very sensitive period because it is the stage of organogenesis. Unnecessary interventions can lead to abortions. However, in cases when there is pain or if no intervention will cause more harm, the teeth must be urgently treated. Under these circumstances, tooth extraction and canal treatment can be performed. The second trimester is the most appropriate period for making many treatments, for those that if postponed until the end of pregnancy would be dangerous, such as tooth extraction, filling, and canal treatment.
+                    During pregnancy, oral and dental care requires special attention. Oral health is a part of general health, and it is of even greater importance during this period because it concerns both the mother and the fetus.
+                    It should also be kept in mind that neglecting oral and dental health during pregnancy does not only cause problems such as tooth decay and tooth loss, but may also lead to problems such as premature birth, low birth weight infant, and pre-eclampsia. Pregnancy is a period in which the mother must obey certain rules in order to protect her health and her baby’s’ health. In this period, mothers can protect their oral health by taking the necessary precautions and then they can prevent dental problems that may be irreversible.
+
+                  </span>
+                </p>
+                <a style="color: #87CEEB" id="myBt" onclick="myFunction()" class="btn-get-started scrollto">Read More</a>             
               </div>
 
               <div class="tab-pane" id="tab-4">
                 <h3>Diabetology</h3>
-                <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
+                <p class="font-italic"><strong>Diabetes, Gum Disease, & Other Dental Problems</strong></p>
                 <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
-                <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
+                <p>
+
+                  <li><strong>What are the most common mouth problems from diabetes?</strong></li>
+                  Gingivitis • unhealthy or inflamed gums, Periodontitis • gum disease, which can change from mild to severe, Thrush, called candidiasis • the growth of a naturally occurring fungus that the body is unable to control dry mouth, called xerostomia • a lack of saliva in your mouth, which raises your risk for tooth decay and gum disease, Oral burning • a burning sensation inside the mouth caused by uncontrolled blood glucose level.
+    
+                  <span id="dot" style="display: none;">...</span>
+                  <span id="mor" style="display: none;">
+
+                    <li><string>How can I keep my mouth healthy?</strong></li>
+
+                    <li><string>Call your dentist right away if you have any symptoms of mouth problems.</strong></li>
+                    <li><string>See your dentist twice a year for a cleaning and checkup. Your dentist may suggest more visits if you need them. </strong></li>
+                    <li><string>If your dentist tells you about a problem, take care of it right away.</strong></li>
+                      <li><string>Follow any steps or treatments from your dentist to keep your mouth healthy.</strong></li>
+                        <li><string>Tell your dentist about any changes in your health or medicines.</strong></li>
+                          <li><string>Share the results of some of your diabetes blood tests, such as the HbA1C or the fasting blood glucose test..</strong></li>
+                            <li><string>Ask if you need antibiotics before and after dental treatment if your diabetes is uncontrolled.</strong></li>
+                              <li><string>If you smoke, stop smoking.</strong></li>
+                  
+
+                  </span>
+                </p>
+                <a style="color: #87CEEB" id="myBt" onclick="myFunction()" class="btn-get-started scrollto">Read More</a> 
               </div>
             </div>
           </div>
@@ -686,7 +742,7 @@ Diabetology
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Doctors</h2>
+          <h2>Our Faculty</h2>
           <p>Higly Educated and Experienced Doctors </p>
         </div>
 
@@ -789,12 +845,30 @@ Diabetology
             {{-- <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
 
             </div> --}}
+            
+            <div class="col col-lg-2 d-flex align-items-stretch">
+              <div class="member" data-aos="fade-up" data-aos-delay="200">
+                <div class="member-img">
+                  <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Dr. Vishakha Raktade</h4>
+                  <span></span>
+                </div>
+              </div>
+            </div>
 
 
             <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="400">
                   <div class="member-img">
-                    <img src="assets/img/doctors/kunal.jpeg" class="img-fluid" alt="">
+                    <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -814,7 +888,7 @@ Diabetology
             <div class="col col-lg-2 d-flex align-items-stretch">
               <div class="member" data-aos="fade-up" data-aos-delay="200">
                 <div class="member-img">
-                  <img src="assets/img/doctors/prashant.jpeg" class="img-fluid" alt="">
+                  <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
@@ -966,17 +1040,17 @@ Diabetology
 
 
     <!-- ======= Frequently Asked Questioins Section ======= -->
-    <section id="faq" class="faq section-bg">
+<!--     <section id="faq" class="faq section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Frequently Asked Questioins( FAQ's )</h2>
+          <h2>Frequently Asked Questioins( FAQ's )</h2> -->
          <!--  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
-        </div>
+<!--         </div>
 
-        <ul class="faq-list">
+        <ul class="faq-list"> -->
 
-          <li>
+<!--           <li>
             <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">1. What are the various mode of payment accepted here ?
  <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq1" class="collapse" data-bs-parent=".faq-list">
@@ -984,9 +1058,9 @@ Diabetology
                 You can make payment Via Cash, Cheque, NEFT, RTGS.
               </p>
             </div>
-          </li>
+          </li> -->
 
-          <li>
+<!--           <li>
             <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">2. Which is the nearest landmark ?
 <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq2" class="collapse" data-bs-parent=".faq-list">
@@ -994,9 +1068,9 @@ Diabetology
                You can easily locate the establishment as it is in close proximity to Besides Naik College Opposite Mahavir Super Shoppe
               </p>
             </div>
-          </li>
+          </li> -->
 
-          <li>
+<!--           <li>
             <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">3. What are its hours of operation ?
 <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
             <div id="faq3" class="collapse" data-bs-parent=".faq-list">
@@ -1020,7 +1094,7 @@ Diabetology
         </ul>
 
       </div>
-    </section><!-- End Frequently Asked Questioins Section -->
+    </section> --><!-- End Frequently Asked Questioins Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">

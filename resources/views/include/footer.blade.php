@@ -6,7 +6,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
               <h3>Samruddhi Dental Skin Hair And Advanced Laser Center</h3>
-              <p>Samruddhi Dental Specialist Skin, Hair And Advanced Laser Center in Aurangabad, Maharashtra is one of the leading Hospital in the Dentists. Also known for Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors and much more. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Samruddhi Dental Skin Hair And Advanced Laser Center, Aurangabad-maharashtra.</p> <strong>Address:</strong><p>
+              <p>Samruddhi Dental Specialist Skin Hair And Advanced Laser Center in Aurangabad-maharashtra is one of the leading Hospital in the Dentists. Also known for Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors and much more. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of Samruddhi Dental Skin Hair And Advanced Laser Center, Aurangabad-maharashtra.</p> <strong>Address:</strong><p>
                Savitaraj Appartment Flat No D4 Cannought Garden,Besides Naik College Opposite Mahavir Super Shoppe.<br>
                 Aurangabad, Aurangabad-Maharashtra - 431001<br><br>
                 <strong>Phone:</strong> +91 9405484847<br>

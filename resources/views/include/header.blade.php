@@ -29,7 +29,13 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
  @yield('css')
-
+<style>
+#more {display: none;}
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 <script>
@@ -37,7 +43,6 @@
     $("#myModal").modal('show');
   });
 </script>
-
 
   <!-- =======================================================
   * Template Name: Medicio - v4.0.1
