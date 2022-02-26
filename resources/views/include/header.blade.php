@@ -31,7 +31,7 @@
  @yield('css')
 <style>
 #more {display: none;}
-div {
+.departments {
   text-align: justify;
   text-justify: inter-word;
 }
