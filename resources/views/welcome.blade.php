@@ -47,7 +47,7 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/gallery/lab3.jpg)">
+        <div class="carousel-item active" style="background-image: url(assets/img/gallery/galler1.jpg)">
           <div class="container">
             <h2>Welcome to <span>Samruddhi Dental Skin Hair And Advanced Laser Center </span></h2>
             <p>Samruddhi  Dental Specialist Skin Hair And Advanced Laser Center in Aurangabad-maharashtra is One of the Best leading businesses in the Dentists.Also known for Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors and much more.</p>
@@ -56,7 +56,7 @@
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/gallery/lab2.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/gallery/galler2.jpg)">
         <!--   <div class="container">
             <h2>Location and Overview:</h2>
             <p>Established in the year 2015, Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad, Aurangabad-maharashtra is a top player in the category Dentists in the Aurangabad-maharashtra. This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Aurangabad-maharashtra. Over the course of its journey, this business has established a firm foothold in itâ€™s industry. The belief that customer satisfaction is as important as their products and services, have helped this establishment garner a vast base of customers, which continues to grow by the day. This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base. In Aurangabad-maharashtra, this establishment occupies a prominent location in Aurangabad. It is an effortless task in commuting to this establishment as there are various modes of transport readily available. It is at , Besides Naik College Opposite Mahavir Super Shoppe, which makes it easy for first-time visitors in locating this establishment. It is known to provide top service in the following categories: Dentists, Skin Care Clinics, Dental Hospitals, Hair Treatment Clinics, Trichologist Doctors, Hair Loss Doctors, X Ray Centres, Paedodontist Doctors.</p>
@@ -65,7 +65,43 @@
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/gallery/lab1.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/gallery/galler3.jpg)">
+          <!-- <div class="container">
+            <h2>Products and Services offered:</h2>
+            <p>Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad has a wide range of products and / or services to cater to the varied requirements of their customers. The staff at this establishment are courteous and prompt at providing any assistance. They readily answer any queries or questions that you may have. Pay for the product or service with ease by using any of the available modes of payment, such as Cash, Cheque, NEFT, RTGS. This establishment is functional from 00:00 - 23:59.
+            </p>
+            <p>
+            Please scroll to the top for the address and contact details of Samruddhi Dental Skin Hair And Advanced Laser Center at Aurangabad, Aurangabad-maharashtra.</p>
+            <a href="#about" class="btn-get-started scrollto">Read More</a>
+          </div> -->
+        </div>
+
+        <!-- Slide 4 -->
+        <div class="carousel-item" style="background-image: url(assets/img/gallery/galler4.jpg)">
+          <!-- <div class="container">
+            <h2>Products and Services offered:</h2>
+            <p>Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad has a wide range of products and / or services to cater to the varied requirements of their customers. The staff at this establishment are courteous and prompt at providing any assistance. They readily answer any queries or questions that you may have. Pay for the product or service with ease by using any of the available modes of payment, such as Cash, Cheque, NEFT, RTGS. This establishment is functional from 00:00 - 23:59.
+            </p>
+            <p>
+            Please scroll to the top for the address and contact details of Samruddhi Dental Skin Hair And Advanced Laser Center at Aurangabad, Aurangabad-maharashtra.</p>
+            <a href="#about" class="btn-get-started scrollto">Read More</a>
+          </div> -->
+        </div>
+
+                <!-- Slide 5 -->
+        <div class="carousel-item" style="background-image: url(assets/img/gallery/galler5.jpg)">
+          <!-- <div class="container">
+            <h2>Products and Services offered:</h2>
+            <p>Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad has a wide range of products and / or services to cater to the varied requirements of their customers. The staff at this establishment are courteous and prompt at providing any assistance. They readily answer any queries or questions that you may have. Pay for the product or service with ease by using any of the available modes of payment, such as Cash, Cheque, NEFT, RTGS. This establishment is functional from 00:00 - 23:59.
+            </p>
+            <p>
+            Please scroll to the top for the address and contact details of Samruddhi Dental Skin Hair And Advanced Laser Center at Aurangabad, Aurangabad-maharashtra.</p>
+            <a href="#about" class="btn-get-started scrollto">Read More</a>
+          </div> -->
+        </div>
+
+                <!-- Slide 6 -->
+        <div class="carousel-item" style="background-image: url(assets/img/gallery/galler6.jpg)">
           <!-- <div class="container">
             <h2>Products and Services offered:</h2>
             <p>Samruddhi Dental Skin Hair And Advanced Laser Center in Aurangabad has a wide range of products and / or services to cater to the varied requirements of their customers. The staff at this establishment are courteous and prompt at providing any assistance. They readily answer any queries or questions that you may have. Pay for the product or service with ease by using any of the available modes of payment, such as Cash, Cheque, NEFT, RTGS. This establishment is functional from 00:00 - 23:59.
@@ -269,138 +305,181 @@
     <!-- End Features Section -->
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services services">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Services</h2>
-          <p>Our Service Keeps you Smile.</p>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
+  <section id="services" class="services services">
+    <div class="container" data-aos="fade-up">
+      <div class="section-title">
+         <h2>Services</h2>
+         <p>Our Service Keeps you Smile.</p>
+      </div>
+      <div class="row">
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon"><i class="fas fa-tooth"></i></div>
             <h4 class="title"><a href="">Cosmetic Dentistry & Laser Dentistry</a></h4>
             <p class="description">Cosmetic Dentistry:-
-It involves change in your overall smile to achieve positive attitude for makes you more confident.
-In this procedure we design your smile considering tooth size, shape, colour, position , lip position, colour, gum colour<span id="dots">...</span><span id="more">
-Laser Dentistry:-
-Smile designing ,Veneers, composite, jewds whitening, orthotlt ,Dpigmentation, Botox.
-Its a painless, bloodless procedure. No anesthesia, fast healing ,less surgery time, no post operation medications, invosive procedure.
-Loser tlt includes- Root canal , Depigmentation, of gums, crown lengthening, frenectomy, Apthouswcer, tooth sensitivity, TMJ biostimulation burning mouth syndrome, hemostasis, operculectomy OSMF
-</span></p>
-<a style="color: #87CEEB" id="myBtn" onclick="mFunction()" class="btn-get-started scrollto">Read More</a>
-<script>
-    function mFunction() {
-      var dots = document.getElementById("dots");
-      var moreText = document.getElementById("more");
-      var btnText = document.getElementById("myBtn");
-
-      if (dots.style.display === "none") {
-        dots.style.display = "inline";
-        btnText.innerHTML = "Read more";
-        moreText.style.display = "none";
-      } else {
-        dots.style.display = "none";
-        btnText.innerHTML = "Read less";
-        moreText.style.display = "inline";
-      }
-    }
-    </script>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
+               It involves change in your overall smile to achieve positive attitude for makes you more confident.
+               In this procedure we design your smile considering tooth size, shape, colour, position , lip position, colour, gum colour<span id="dots">...</span><span id="more">
+               Laser Dentistry:-
+               Smile designing ,Veneers, composite, jewds whitening, orthotlt ,Dpigmentation, Botox.
+               Its a painless, bloodless procedure. No anesthesia, fast healing ,less surgery time, no post operation medications, invosive procedure.
+               Loser tlt includes- Root canal , Depigmentation, of gums, crown lengthening, frenectomy, Apthouswcer, tooth sensitivity, TMJ biostimulation burning mouth syndrome, hemostasis, operculectomy OSMF
+               </span>
+            </p>
+            <a style="color: #87CEEB" id="myBtn" onclick="mFunction()" class="btn-get-started scrollto">Read More</a>
+            <script>
+               function mFunction() {
+                 var dots = document.getElementById("dots");
+                 var moreText = document.getElementById("more");
+                 var btnText = document.getElementById("myBtn");
+               
+                 if (dots.style.display === "none") {
+                   dots.style.display = "inline";
+                   btnText.innerHTML = "Read more";
+                   moreText.style.display = "none";
+                 } else {
+                   dots.style.display = "none";
+                   btnText.innerHTML = "Read less";
+                   moreText.style.display = "inline";
+                 }
+               }
+            </script>
+         </div>
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon"><i class="fas fa-pills"></i></div>
             <h4 class="title"><a href="">Orthodontics</a></h4>
             <p class="description">Orthodontics treatment is nothing but braces placement.
-Braces are applied in order to connect crowding, gap in between teeth, Malanged teeth & strengthen them with the help of moral or ceramic brakets according to requirement of the patient.
-</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+               Braces are applied in order to connect crowding, gap in between teeth, Malanged teeth & strengthen them with the help of moral or ceramic brakets according to requirement of the patient.
+            </p>
+         </div>
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-hospital-user"></i></div>
             <h4 class="title"><a href="">Lmplantology & Oral surgery</a></h4>
             <p class="description">Lmplantology:-
-Dental implants is permanent replacement of one or more missing tooth
-It saves you neighbouring tooth from damage & it looks very natural.
-Oral surgery:-
-It includes minor & major surgical procedure like.
-Extraction
-Disimpaction
-Cancerous & precancerous tlt
-OSMF tlt</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
+               Dental implants is permanent replacement of one or more missing tooth
+               It saves you neighbouring tooth from damage & it looks very natural.
+               Oral surgery:-
+               It includes minor & major surgical procedure like.
+               Extraction
+               Disimpaction
+               Cancerous & precancerous tlt
+               OSMF tlt
+            </p>
+         </div>
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon"><i class="fas fa-dna"></i></div>
             <h4 class="title"><a href="">Conservative & Endodontics</a></h4>
             <p class="description">Conservative includes-  Tooth filling it may be Amalgum (silver), cement or composite in order to save tooth from further decay.
-Endodontics includes- We deliver painless loser root canal tlt.</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
+               Endodontics includes- We deliver painless loser root canal tlt.
+            </p>
+         </div>
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon"><i class="fas fa-wheelchair"></i></div>
             <h4 class="title"><a href="">Prosthodontics</a></h4>
             <p class="description">1 Dental crown & bridge-
-It is nothing but cap or covering on your healthy tooth to restore its size, shape & structure.
-2 Denture
-It is replacement of all missing teeth helps to achieve proper speech, esthetic, diet.
-It is removal appliances.</p>
-          </div>
-          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+               It is nothing but cap or covering on your healthy tooth to restore its size, shape & structure.
+               2 Denture
+               It is replacement of all missing teeth helps to achieve proper speech, esthetic, diet.
+               It is removal appliances.
+            </p>
+         </div>
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-notes-medical"></i></div>
             <h4 class="title"><a href="">Periodontology & Pedodontics</a></h4>
             <p class="description">Periodontology:-
-It deals with your routine teeth cleaning & polishing so as to improve
-Your gum health & reduce problems of bad breathe
-Pedodontics:-
-It is a separate branch<span id="dot">...</span><span id="mor">  dedicated to   kids oral health.
-TLT includes-
-RCT
-Fluorides
-Habit breaking appliance
-Sealents
-Avanced Dentistry
-OPG</span></p>
-<a style="color: #87CEEB" id="myBt" onclick="myFunction()" class="btn-get-started scrollto">Read More</a>
+               It deals with your routine teeth cleaning & polishing so as to improve
+               Your gum health & reduce problems of bad breathe
+               Pedodontics:-
+               It is a separate branch<span id="dot">...</span><span id="mor">  dedicated to   kids oral health.
+               TLT includes-
+               RCT
+               Fluorides
+               Habit breaking appliance
+               Sealents
+               Avanced Dentistry
+               OPG</span>
+            </p>
+            <a style="color: #87CEEB" id="myBt" onclick="myFunction()" class="btn-get-started scrollto">Read More</a>
+            <script>
+               function myFunction() {
+                   var dots = document.getElementById("dot");
+                   var moreText = document.getElementById("mor");
+                   var btnText = document.getElementById("myBt");
+               
+                   if (dots.style.display == "none") {
+                     dots.style.display = "inline";
+                     btnText.innerHTML = "Read more";
+                     moreText.style.display = "none";
+                   } else {
+                     dots.style.display = "none";
+                     btnText.innerHTML = "Read less";
+                     moreText.style.display = "inline";
+                   }
+                 }
+                 
+            </script>
+         </div>
 
 
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="fas fa-notes-medical"></i></div>
+            <h4 class="title"><a href="">Acne</a></h4>
+            <p class="description">Acne :-
+                   • Acne usually occur during purberty or teenagers due to hormonal change, we can treat it with many advanced modalities 
+                    1. Acne or pimple, Acne Scar, Black and White skin pore reduction.
+            </p>
+         </div>
 
-<script>
-function myFunction() {
-    var dots = document.getElementById("dot");
-    var moreText = document.getElementById("mor");
-    var btnText = document.getElementById("myBt");
 
-    if (dots.style.display == "none") {
-      dots.style.display = "inline";
-      btnText.innerHTML = "Read more";
-      moreText.style.display = "none";
-    } else {
-      dots.style.display = "none";
-      btnText.innerHTML = "Read less";
-      moreText.style.display = "inline";
-    }
-  }
-  </script>
-          </div>
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="fas fa-notes-medical"></i></div>
+            <h4 class="title"><a href="">Pigmentation</a></h4>
+            <p class="description">Pigmentation :-
+                  • Nowadays skin pigmentation is most common problem everyone is facing, it may be due to sun exposure, pregnancy. Hormonal imbelana melanin production, it can be solved with high end technology procedures 
+                  • Melasma, under eye, dark skin stone, 
+                  • black spot, sunburn spot, age spot, coffee spot
+                  •  uneven skin tone.
+            </p>
+         </div>
 
-          <!-- <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">-->
-          <!--  <div class="icon"><i class="fas fa-notes-medical"></i></div>-->
-          <!--  <h4 class="title"><a href=""> Endodontics ( Root canal treatment)</a></h4>-->
-          <!--  <p class="description">Endodontics ( Root canal treatment) info</p>-->
-          <!--</div>-->
-          <!-- <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">-->
-          <!--  <div class="icon"><i class="fas fa-notes-medical"></i></div>-->
-          <!--  <h4 class="title"><a href="">Prosthodontics ( crown & bridges )</a></h4>-->
-          <!--  <p class="description">Prosthodontics ( crown & bridges ) info</p>-->
-          <!--</div>-->
-          <!--<div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">-->
-          <!--  <div class="icon"><i class="fas fa-notes-medical"></i></div>-->
-          <!--  <h4 class="title"><a href="">Periodontics & Paedodontics</a></h4>-->
-          <!--  <p class="description">Periodontics & Paedodontics info</p>-->
-          <!--</div>-->
-        </div>
 
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="fas fa-notes-medical"></i></div>
+            <h4 class="title"><a href="">Antiaging</a></h4>
+            <p class="description">Antiaging :-
+              • Aesthetic procedures and antiaging + it have now become more affordable and accessible with the innovation in cosmetology 
+              • Wrinkles removal, skin tightening, lifting, skin rejuvuation, double chin removal
+            </p>
+         </div>
+
+         <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="fas fa-notes-medical"></i></div>
+            <h4 class="title"><a href="">Tattooing ( Advanced Modalities )</a></h4>
+            <p class="description">Tattooing ( Advanced Modalities ) :-
+              • Tattooing has been a trend for the past decade. Many times people wont to get rid of tattoos. With advanced laser technology u c get rid of unwonted tattoos. 
+              • Tattoo removal, permanent eyebrow. 
+              • Permanent lip colour, permanent eyelash, Eyeliner 
+            </p>
+         </div>
+
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="fas fa-notes-medical"></i></div>
+            <h4 class="title"><a href="">Skin Tags</a></h4>
+            <p class="description">Skin Tags :-
+              Mole removal, Neves removal, Wart removal, Milia, Xanthelasma 
+            </p>
+         </div>
+
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon"><i class="fas fa-notes-medical"></i></div>
+            <h4 class="title"><a href="">Piercing</a></h4>
+            <p class="description">Piercing :-
+              Painless piercing with USA Approved studs 
+              • Ear lobe, Nose, Belly, Eyebrow
+            </p>
+         </div>
 
       </div>
-    </section><!-- End Services Section -->
+   </div>
+</section><!-- End Services Section -->
 
     <!-- ======= Appointment Section ======= -->
     <section id="appointment" class="appointment section-bg">
@@ -756,7 +835,7 @@ A number of theories have been proposed, including:</strong></p>
             <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
                 <div class="member" data-aos="fade-up" data-aos-delay="400">
                   <div class="member-img">
-                    <img src="assets/img/doctors/doctor.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/doctors/dr_samruddhi_resize.jpg" class="img-fluid" alt="">
                     <div class="social">
                       <a href=""><i class="bi bi-twitter"></i></a>
                       <a href=""><i class="bi bi-facebook"></i></a>
@@ -767,6 +846,24 @@ A number of theories have been proposed, including:</strong></p>
                   <div class="member-info">
                     <h4>Dr. Samrudhi Chaudhary Shinde</h4>
                     <span>Dentist, Cosmetologist, Oral Radiologis</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-2 d-flex align-items-stretch">
+                <div class="member" data-aos="fade-up" data-aos-delay="400">
+                  <div class="member-img">
+                    <img src="assets/img/doctors/dr_vishal_jadhav_resize.jpg" class="img-fluid" alt="">
+                    <div class="social">
+                      <a href=""><i class="bi bi-twitter"></i></a>
+                      <a href=""><i class="bi bi-facebook"></i></a>
+                      <a href=""><i class="bi bi-instagram"></i></a>
+                      <a href=""><i class="bi bi-linkedin"></i></a>
+                    </div>
+                  </div>
+                  <div class="member-info">
+                    <h4>Dr. Vishal Jadhav</h4>
+                    <span></span>
                   </div>
                 </div>
               </div>
@@ -962,13 +1059,17 @@ A number of theories have been proposed, including:</strong></p>
         <div class="gallery-slider swiper-container">
           <div class="swiper-wrapper align-items-center">
             <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab1.jpg"><img src="assets/img/gallery/lab1.jpg" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab2.jpg"><img src="assets/img/gallery/lab2.jpg" class="img-fluid" alt=""></a></div>
             <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab3.jpg"><img src="assets/img/gallery/lab3.jpg" class="img-fluid" alt=""></a></div>
             <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab4.jpg"><img src="assets/img/gallery/lab4.jpg" class="img-fluid" alt=""></a></div>
-            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab5.jpg"><img src="assets/img/gallery/lab5.jpg" class="img-fluid" alt=""></a></div>
             <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/lab6.jpg"><img src="assets/img/gallery/lab6.jpg" class="img-fluid" alt=""></a></div>
             <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-7.jpg"><img src="assets/img/gallery/gallery-7.jpg" class="img-fluid" alt=""></a></div>
             <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/gallery-8.jpg"><img src="assets/img/gallery/gallery-8.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/galler1.jpg"><img src="assets/img/gallery/galler1.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/galler2.jpg"><img src="assets/img/gallery/galler2.jpg" class="img-fluid" alt=""></a></div>
+          <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/galler3.jpg"><img src="assets/img/gallery/galler3.jpg" class="img-fluid" alt=""></a></div>
+           <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/galler4.jpg"><img src="assets/img/gallery/galler4.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/galler5.jpg"><img src="assets/img/gallery/galler5.jpg" class="img-fluid" alt=""></a></div>
+          <div class="swiper-slide"><a class="gallery-lightbox" href="assets/img/gallery/galler6.jpg"><img src="assets/img/gallery/galler6.jpg" class="img-fluid" alt=""></a></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
